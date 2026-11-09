@@ -26,9 +26,15 @@ e fichas/resenhas em texto próprio. Público: leitor leigo brasileiro.
 python src/assemble_public.py
 ```
 
+## Publicação
+
+O workflow `.github/workflows/pages.yml` publica a pasta `site/` no GitHub Pages a cada push em `main`.
+Depois de enviar o repositório ao GitHub, ative em Settings → Pages → Source: **GitHub Actions**.
+Lembre-se de rodar `python src/assemble_public.py` e commitar `site/index.html` antes do push.
+
 ## Estado
 
-- Fichas completas (52): posições 1–25 (1–10 no tamanho novo, ~2000 caracteres; 11–25 com ~1500; ambas com botão “Ler mais”); lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50); lote 3 (52, 60, 61, 63, 70, 77); lote 4 (78, 79, 83, 84, 88, 95); lote 5 (97, 99, 100).
+- Fichas completas (56): posições 1–25 (1–10 no tamanho novo, ~2000 caracteres; 11–25 com ~1500; ambas com botão “Ler mais”); lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50); lote 3 (52, 60, 61, 63, 70, 77); lote 4 (78, 79, 83, 84, 88, 95); lote 5 (97, 99, 100); casos com ressalva (35, 47, 85, 86).
 - Demais posições: só título e anos ("Ficha em preparação").
 - Pendências e fatos a conferir em fonte oficial: ver `TODO.md`.
-- Próximos lotes: os verbetes do livro ainda não aproveitados (com ressalva: 35, 47, 85) e, depois, as séries sem verbete, com pesquisa em fontes públicas.
+- Próximos lotes: as 44 séries sem verbete no livro, com pesquisa em fontes públicas.

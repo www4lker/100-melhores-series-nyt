@@ -720,5 +720,57 @@ F[100] = dict(
         "O ritmo é de novela: diálogos em velocidade máxima, segredos, traições e reviravoltas em quase todo episódio, algumas muito exageradas. É diversão de maratona, melodrama assumido, e não um retrato realista de Washington. Serve a quem gosta de intriga, de personagens que mentem muito e de finais de episódio em suspense; menos a quem prefere política mais séria. As primeiras temporadas são as mais fortes.",
     ])
 
-_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50, 52, 60, 61, 63, 70, 77, 78, 79, 83, 84, 88, 95, 97, 99, 100}
+F[35] = dict(
+    tagline="Dois detetives da Louisiana contam, anos depois, o caso de um crime ritual que nunca saiu de dentro deles.",
+    genero="Drama policial", pais="Estados Unidos", anos="2014 · 1ª temporada (8 episódios)",
+    elenco="Matthew McConaughey, Woody Harrelson, Michelle Monaghan, Michael Potts",
+    emissora="HBO",
+    premios="Emmy de direção para Cary Joji Fukunaga (2014).",
+    parecido="Mindhunter, Broadchurch, Mare of Easttown",
+    episodio="“Who Goes There” (1ª temporada, ep. 4).",
+    texto=[
+        "Em 2012, dois ex-detetives da polícia da Louisiana, Rust Cohle (Matthew McConaughey) e Marty Hart (Woody Harrelson), são interrogados sobre um caso de 1995: o assassinato ritual de uma jovem, que os ocupou por anos. A história vai e volta entre as duas épocas, e a versão de cada um nem sempre bate com a do outro. A lista do jornal considera só esta primeira temporada, e é só dela que trata esta ficha.",
+        "É uma série policial mais interessada em atmosfera e personagens do que em perseguições: o pântano, as igrejas, os monólogos pessimistas de Cohle, a amizade que se desgasta. A direção de Cary Joji Fukunaga, que dirigiu os oito episódios, rendeu um Emmy, e uma sequência do quarto episódio, filmada em plano contínuo, é das mais comentadas. As temporadas seguintes têm outro elenco e outra história, e são bem mais desiguais. Serve a quem gosta de suspense lento e sombrio; não a quem quer resolução rápida.",
+    ])
+
+F[47] = dict(
+    tagline="Vinte e cinco anos depois, David Lynch volta à cidade onde tudo começou e faz a série mais estranha da lista.",
+    genero="Drama de mistério surreal", pais="Estados Unidos", anos="2017 · 18 partes",
+    elenco="Kyle MacLachlan, Laura Dern, Sheryl Lee, Naomi Watts, Dana Ashbrook, Michael Horse",
+    emissora="Showtime",
+    premios="Apareceu no topo de várias listas de críticos de melhores séries de 2017.",
+    parecido="Twin Peaks (série original de 1990–91), Lost, The Leftovers",
+    episodio="Parte 1 (de preferência depois de ver a série original).",
+    texto=[
+        "Vinte e cinco anos depois, o agente do FBI Dale Cooper (Kyle MacLachlan) continua envolvido nos mistérios que a série original deixou em aberto, na cidade de Twin Peaks, no noroeste dos Estados Unidos, onde tudo começou com o assassinato de Laura Palmer. A terceira temporada, exibida em 2017, tem dezoito partes, todas dirigidas por David Lynch, e reúne personagens antigos e muitos novos.",
+        "Não é uma continuação comum: Lynch e o coautor Mark Frost fazem uma obra lenta, estranha e cheia de sonhos e imagens que desafiam explicação, mais próxima de uma experiência de cinema do que de uma série policial. Serve a quem já viu a série original (e, de preferência, o filme Twin Peaks: Os Últimos Dias de Laura Palmer, de 1992) e gosta de arte ousada; não a quem espera respostas claras. Quem ainda não viu a série original deve começar por ela.",
+    ])
+
+F[85] = dict(
+    tagline="Confeiteiros amadores numa tenda no campo inglês, e uma competição em que todo mundo torce por todo mundo.",
+    genero="Competição culinária", pais="Reino Unido", anos="2010–atual",
+    elenco="Apresentadores e jurados: Mel Giedroyc, Sue Perkins, Mary Berry, Paul Hollywood, Prue Leith, Noel Fielding",
+    emissora="BBC (depois Channel 4)",
+    premios="Premiado com vários BAFTAs de TV.",
+    parecido="MasterChef, Bake Off Brasil, Drag Race",
+    episodio="O primeiro episódio da 1ª temporada.",
+    texto=[
+        "Numa grande tenda no campo inglês, cerca de uma dúzia de confeiteiros amadores disputa o título de melhor do país. Em cada episódio há três provas: a receita da casa, uma prova técnica surpresa e uma obra grandiosa. Os jurados avaliam, uma pessoa deixa a competição e outra é eleita a melhor da semana. No Reino Unido o programa se chama The Great British Bake Off; nos Estados Unidos, o título muda para Baking Show.",
+        "O charme é o contrário do reality de competição comum: ninguém é humilhado, os participantes se ajudam e torcem uns pelos outros, e o tom é de carinho e humor britânico. Há também o prazer das receitas e do suspense: bolo que não cresce, merengue que desmancha. Serve a quem gosta de culinária e de programas calmos; não a quem quer drama. Cada temporada pode ser vista separadamente.",
+    ])
+
+F[86] = dict(
+    tagline="Um navegador inglês naufraga no Japão de 1600 e cai no meio de uma disputa pelo poder.",
+    genero="Drama histórico", pais="Estados Unidos", anos="2024–atual",
+    elenco="Hiroyuki Sanada, Cosmo Jarvis, Anna Sawai, Tadanobu Asano",
+    emissora="FX (Hulu)",
+    premios="18 Emmys em 2024, incluindo melhor série dramática, melhor ator (Hiroyuki Sanada) e melhor atriz (Anna Sawai).",
+    parecido="Game of Thrones, The Last Kingdom, Vikings",
+    episodio="O primeiro episódio (“Anjin”).",
+    texto=[
+        "Japão, ano de 1600: o país está à beira de uma guerra civil entre senhores poderosos, e o piloto inglês John Blackthorne (Cosmo Jarvis) naufraga na costa com uma tripulação à beira da fome. Preso como estrangeiro suspeito, cai nas mãos do senhor Toranaga (Hiroyuki Sanada), um estrategista que enfrenta rivais no conselho de regentes, e da intérprete Mariko (Anna Sawai).",
+        "É um drama político e histórico, de intrigas e choque entre culturas, baseado no romance de James Clavell, de 1975. Muito do diálogo é em japonês, com legendas, e a produção foi elogiada pelo cuidado com cenários, figurinos e costumes da época. Serve a quem gosta de drama histórico e de ritmo contido; não a quem quer ação o tempo todo. Não é preciso conhecer o livro nem a minissérie de 1980.",
+    ])
+
+_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50, 52, 60, 61, 63, 70, 77, 78, 79, 83, 84, 88, 95, 97, 99, 100, 35, 47, 85, 86}
 assert _NOVOS | set(range(1, 26)) == set(F), sorted(set(F) ^ (_NOVOS | set(range(1, 26))))

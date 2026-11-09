@@ -32,6 +32,8 @@ Faixas: 1–10 ≈ 2000 caracteres; 11–25 ≈ 1500; 26–100 ≈ 800. A dúvid
 - [x] Lote 3: 52, 60, 61, 63, 70, 77 (escrito com ~1.000 caracteres de texto cada; a faixa 26–100 agora mira ~800)
 - [x] Lote 4: 78, 79, 83, 84, 88, 95 (escrito com ~700–750 caracteres; faixa 26–100 mira ~800)
 - [x] Lote 5: 97, 99, 100 (~780–850 caracteres)
-- [ ] Com ressalva (usar o livro só como contexto): 35 (só a 1ª temporada), 47 (o livro cobre só a série original), 85 (título no livro: The Great British Bake Off)
-- [ ] Não usar o verbete do livro: 86 (o livro trata da minissérie de 1980, não da de 2024)
+- [x] Casos com ressalva: 35 (só a 1ª temporada), 47 (*The Return*), 85 (*Bake Off*) e 86 (*Xógum* de 2024, escrita sem usar o verbete do livro, que trata da minissérie de 1980). ~765–910 caracteres.
+- [ ] **Conferir (casos com ressalva, só de memória):** *True Detective* (Emmy de direção de Fukunaga em 2014; plano contínuo no ep. 4); *Twin Peaks: The Return* (18 partes, todas dirigidas por Lynch; “várias listas de críticos” de 2017; título brasileiro do filme de 1992); *Bake Off* (BAFTAs, mudança de BBC para Channel 4, jurados e apresentadores); *Xógum* (18 Emmys em 2024, categorias de série, ator e atriz; romance de Clavell de 1975).
+- [x] **Workflow do GitHub Pages:** `.github/workflows/pages.yml` publica a pasta `site/` a cada push em `main` (ou manualmente, em Actions). O site é um arquivo único, sem caminhos absolutos nem dependências externas; `privado/` está no `.gitignore` e nunca entrou no histórico.
+- [ ] **Publicar no GitHub Pages (passos do usuário):** (1) criar o repositório público no GitHub; (2) `git remote add origin <url>`; (3) mesclar `site/ler-mais-e-imdb` em `main`; (4) `git push -u origin main`; (5) em Settings → Pages, escolher "Source: GitHub Actions". Antes de tornar público, conferir os fatos pendentes acima.
 - [ ] Séries sem verbete no livro (44, posições 26–100): pesquisa em fontes públicas
