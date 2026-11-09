@@ -330,4 +330,84 @@ F[10] = dict(
   "O tom muda de um episódio para outro: há capítulos realistas, outros de humor absurdo, um quase de terror e um falso documentário sobre uma emissora que só existe naquele universo. A terceira temporada leva os personagens a uma turnê pela Europa, e a quarta volta a Atlanta. Em vez de uma trama linear, a série oferece um retrato atento de um lugar e de uma geração, com a ironia de quem vê o mundo de uma esquina e o desconforto de saber que as coisas não vão se resolver."
  ])
 
-assert set(F) == set(range(1, 26)), sorted(set(range(1,26)) ^ set(F))
+# ---- Lote 1 (posições 26–37): textos escritos do zero; fatos conferidos com conhecimento geral ----
+
+F[26] = dict(
+ tagline="Contos de ficção científica em que a tecnologia de hoje dá um passo a mais — e o passo dá errado.",
+ genero="Antologia de ficção científica", pais="Reino Unido / Estados Unidos", anos="2011–hoje · várias temporadas",
+ elenco="Elenco novo a cada episódio: Daniel Kaluuya, Jon Hamm, Bryce Dallas Howard, Mackenzie Davis, Jesse Plemons, entre muitos outros",
+ emissora="Channel 4 (2011–2014); Netflix (desde 2016)",
+ premios="Vários Emmys, incluindo o de melhor filme para TV com os episódios “San Junipero” (2017) e “USS Callister” (2018).",
+ parecido="Além da Imaginação (Twilight Zone), Love, Death & Robots, Years and Years",
+ episodio="“San Junipero” (3ª temporada, ep. 4) — o mais querido, e o menos sombrio.",
+ texto=[
+  "Cada episódio de Black Mirror é uma história fechada, com personagens e época próprios, e o que os une é uma pergunta: o que acontece quando uma tecnologia quase pronta encontra a pior (ou a mais humana) parte de nós? Há redes sociais que viram sistema de notas para a vida inteira, memórias que podem ser gravadas e revistas, mortos que voltam como programas, um jogo em que um funcionário frustrado manda em cópias digitais dos colegas. O criador, o roteirista e humorista britânico Charlie Brooker, começou na TV inglesa e a série ganhou fama mundial quando a Netflix assumiu a produção.",
+  "O título vem da tela escura de qualquer aparelho desligado, onde cada um vê o próprio reflexo — e é isso que a série cobra do espectador. Nem tudo é pessimismo: alguns episódios são histórias de amor ou comédias amargas, e os melhores trabalham a emoção antes do susto. Como a qualidade varia entre capítulos e temporadas, vale escolher a dedo no começo. Para quem não é fã de ficção científica, o recado é tranquilizador: quase nunca se trata de naves ou robôs, e sim de coisas que já estão no seu bolso."
+ ])
+
+F[27] = dict(
+ tagline="Antes de virar Saul Goodman, Jimmy McGill ainda tentava ser um advogado honesto.",
+ genero="Drama policial", pais="Estados Unidos", anos="2015–2022 · 6 temporadas",
+ elenco="Bob Odenkirk, Rhea Seehorn, Jonathan Banks, Michael McKean, Patrick Fabian, Michael Mando, Giancarlo Esposito, Tony Dalton",
+ emissora="AMC",
+ premios="Mais de 50 indicações ao Emmy e nenhuma vitória, um dos maiores “zeros” da história da premiação.",
+ parecido="Breaking Bad, Ozark, Família Soprano",
+ episodio="“Chicanery” (3ª temporada, ep. 5), o julgamento mais tenso da série.",
+ texto=[
+  "Spin-off de Breaking Bad criado por Vince Gilligan e Peter Gould, a série volta ao tempo em que o advogado espalhafatoso Saul Goodman ainda se chamava Jimmy McGill: um defensor público endividado em Albuquerque, que cuida do irmão mais velho, Chuck, brilhante e doente, e tenta subir na vida sem ter pedigree. Ao lado dele aparecem a advogada Kim Wexler, que se torna o coração moral da trama, e o ex-policial Mike Ehrmantraut, que também vem da série original.",
+  "Não é preciso ter visto Breaking Bad para entrar, mas quem viu ganha uma camada extra, porque a graça é acompanhar um homem simpático desistindo, aos poucos, das próprias regras. O ritmo é mais lento e mais detalhista que o da série-mãe, com atenção quase obsessiva a gestos e silêncios, e a relação entre Jimmy e Kim é um dos melhores retratos de casal da TV recente. Bob Odenkirk, até então conhecido como comediante, entrega o papel de sua carreira. Muitos críticos consideram a série tão boa quanto a original, e alguns a preferem."
+ ])
+
+F[28] = dict(
+ tagline="A história de uma companhia de paraquedistas americanos, do treinamento ao fim da Segunda Guerra.",
+ genero="Minissérie de guerra", pais="Estados Unidos / Reino Unido", anos="2001 · 10 episódios",
+ elenco="Damian Lewis, Ron Livingston, Donnie Wahlberg, Scott Grimes, Neal McDonough, David Schwimmer, Michael Fassbender, Tom Hardy, James McAvoy",
+ emissora="HBO",
+ premios="Emmy e Globo de Ouro de melhor minissérie (2002).",
+ parecido="The Pacific, Chernobyl, Generation Kill",
+ episodio="“Bastogne” (ep. 6), contado do ponto de vista do médico da companhia.",
+ texto=[
+  "Baseada no livro do historiador Stephen Ambrose e produzida por Tom Hanks e Steven Spielberg, a minissérie acompanha a Easy Company, unidade de paraquedistas do exército americano, desde o treinamento duríssimo em 1942 até o fim da guerra na Europa. São os pousos na Normandia no Dia D, a batalha de Bastogne no inverno, a chegada a um campo de concentração e, no fim, ao Ninho da Águia, refúgio de Hitler nos Alpes. O líder da companhia é o oficial Richard Winters, interpretado por Damian Lewis.",
+  "Em vez de um herói só, a série distribui o foco: vários episódios giram em torno de um personagem diferente, o que dá a sensação de ver a guerra por muitos pontos de vista. As cenas de combate, feitas com orçamento de cinema, foram marcantes na época, mas é a camaradagem entre os soldados — e a perda de cada um — que fica na memória. Veteranos reais aparecem em depoimentos curtos, que misturam história e emoção. É uma boa porta de entrada para quem não costuma ver filmes de guerra."
+ ])
+
+F[31] = dict(
+ tagline="Estranhos largados numa ilha, uma votação por semana e um milhão de dólares para o último de pé.",
+ genero="Reality de competição", pais="Estados Unidos", anos="2000–hoje · mais de 40 temporadas",
+ elenco="Apresentador: Jeff Probst; participantes diferentes a cada temporada",
+ emissora="CBS",
+ premios="Jeff Probst venceu várias vezes o Emmy de melhor apresentador de reality.",
+ parecido="No Limite, The Amazing Race, Big Brother",
+ episodio="Comece pela 1ª temporada (Bornéu, 2000), onde tudo começou — ou pela que passar na sua TV hoje.",
+ texto=[
+  "A versão americana de um formato sueco do final dos anos 1990 reúne um grupo de pessoas comuns num lugar remoto, divide todas em tribos e as obriga a fazer comida, abrigo e fogo sozinhas. A cada semana há provas de resistência e inteligência e, no fim, o grupo vota para eliminar alguém, até restar um vencedor. A primeira temporada, em Bornéu (2000), foi um fenômeno de audiência nos Estados Unidos e fez o reality virar gênero dominante da TV; aqui no Brasil, o formato deu origem ao No Limite, da Globo, que estreou no mesmo ano.",
+  "O que mantém o programa vivo há mais de duas décadas é a mistura de esporte e jogo político: não basta ser forte, é preciso fazer alianças, mentir na medida certa e ser simpático o bastante para não ser o próximo a sair. As temporadas variam de cenário e de regras, o que permite começar por qualquer uma. É diversão de fim de tarde, com algum drama real. Para quem torce o nariz para reality, vale saber que muitos críticos o colocam entre os melhores do gênero."
+ ])
+
+F[33] = dict(
+ tagline="Uma executiva que explodiu no trabalho volta do retiro decidida a salvar o mundo — e atrapalha todo mundo.",
+ genero="Comédia dramática", pais="Estados Unidos", anos="2011–2013 · 2 temporadas",
+ elenco="Laura Dern, Luke Wilson, Diane Ladd, Mike White, Sarah Burns, Timm Sharp",
+ emissora="HBO",
+ premios="Globo de Ouro de melhor atriz em comédia ou musical para Laura Dern (2012).",
+ parecido="Fleabag, Girls, The White Lotus",
+ episodio="O primeiro episódio (“Pilot”), com a crise no escritório.",
+ texto=[
+  "Amy Jellicoe trabalha numa grande empresa e tem uma crise de nervos pública depois de um caso que acaba mal. Passa semanas numa clínica no Havaí, volta aparentemente em paz e decidida a ser uma pessoa melhor — o que, na prática, significa tentar consertar a mãe, o ex-marido e a empresa onde trabalha, sem que ninguém tenha pedido. A segunda temporada transforma a obsessão dela em uma cruzada contra a própria companhia.",
+  "Escrita por Mike White (o mesmo de The White Lotus) e por Laura Dern, a série vive da dificuldade em decidir se Amy é heroína ou pessoa insuportável, e acerta ao não resolver a dúvida: ela é as duas coisas. Dern, premiada com o Globo de Ouro, está em um de seus melhores papéis, e a mãe da personagem é interpretada por Diane Ladd, que é mãe dela na vida real. Foi cancelada depois de duas temporadas com audiência baixa, mas ganhou fama com o tempo e virou favorita da crítica. São só 18 episódios, de meia hora."
+ ])
+
+F[37] = dict(
+ tagline="Os humanos quase foram extintos por suas próprias máquinas e fogem, em busca de um planeta chamado Terra.",
+ genero="Ficção científica", pais="Estados Unidos", anos="2004–2009 · 4 temporadas (após minissérie de 2003)",
+ elenco="Edward James Olmos, Mary McDonnell, Katee Sackhoff, Jamie Bamber, Tricia Helfer, James Callis, Grace Park",
+ emissora="Sci Fi Channel (mais tarde Syfy)",
+ premios="Prêmio Peabody (2005) e Emmys técnicos, como o de efeitos visuais.",
+ parecido="The Expanse, Star Trek: Deep Space Nine, Westworld",
+ episodio="“33” (1ª temporada, ep. 1) — um dos melhores episódios de abertura da ficção científica.",
+ texto=[
+  "Refazendo uma série de 1978, Ronald D. Moore parte de um ataque devastador: os Cylons, robôs criados pelos humanos que se rebelaram, destroem as colônias humanas e deixam apenas cerca de 50 mil sobreviventes. Eles fogem numa frota comandada pela nave de guerra Galactica, sob o comando do veterano Adama e da secretária de Educação Laura Roslin, que acaba como presidente por falta de quem ocupe o cargo. Os cylons podem agora ter aparência humana, o que deixa todos suspeitando de todos.",
+  "Mais que batalhas espaciais, a série se interessa por política, religião, medo e tortura, em temas que ecoavam os anos pós-11 de setembro. A câmera instável e os diálogos nervosos dão aspecto de documentário ao futuro distante, e a atuação do elenco é de primeira. A última temporada divide opiniões, mas o conjunto é um dos grandes marcos da ficção científica na TV, que fez muita gente passar a levar o gênero a sério."
+ ])
+
+assert {26, 27, 28, 31, 33, 37} | set(range(1, 26)) == set(F), sorted(set(F) ^ ({26, 27, 28, 31, 33, 37} | set(range(1, 26))))

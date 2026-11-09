@@ -33,12 +33,13 @@ for r in lista:
 
 rodape = [
  "A lista e a ordem são as do jornal The New York Times (“The 100 Best TV Shows of the 21st Century”). Esta página não é afiliada ao jornal.",
- "As fichas e resenhas dos 25 primeiros foram escritas para esta página, em texto próprio, a partir de pesquisa em fontes públicas; o livro “1001 TV Shows You Must Watch Before You Die” foi uma das referências de consulta. Elenco, emissora, anos e prêmios são informações factuais e podem ter pequenas imprecisões; em caso de dúvida, confira numa fonte oficial.",
+ "As fichas e resenhas foram escritas para esta página, em texto próprio, a partir de pesquisa em fontes públicas; o livro “1001 TV Shows You Must Watch Before You Die” foi uma das referências de consulta. Elenco, emissora, anos e prêmios são informações factuais e podem ter pequenas imprecisões; em caso de dúvida, confira numa fonte oficial.",
  "Títulos em português: usamos o título da exibição no Brasil quando há um conhecido; quando não há, mantemos o original. As marcações de “já vi” e “quero ver” e suas anotações ficam apenas neste navegador, não são enviadas a ninguém.",
 ]
 data = {"items": items, "rodape": rodape}
 dj = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
-html = open(os.path.join(SP, "template_publico.html"), encoding="utf-8").read().replace("__DATA__", dj)
+html = (open(os.path.join(SP, "template_publico.html"), encoding="utf-8").read()
+        .replace("__DATA__", dj).replace("__NFICHAS__", str(len(F))))
 out = os.path.join(ROOT, "site")
 os.makedirs(out, exist_ok=True)
 dest = os.path.join(out, "index.html")
