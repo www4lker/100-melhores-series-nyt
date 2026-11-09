@@ -26,7 +26,7 @@ python src/assemble_public.py
 
 ## Estado
 
-- Fichas completas (37): posições 1–25; lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50).
+- Fichas completas (43): posições 1–25; lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50); lote 3 (52, 60, 61, 63, 70, 77).
 - Demais posições: só título e anos ("Ficha em preparação").
 - Pendências e fatos a conferir em fonte oficial: ver `TODO.md`.
-- Próximos lotes: os verbetes do livro ainda não aproveitados (35, 52, 60, 61, 63, 70, 77, 78, 79, 83, 84, 88, 95, 97, 99, 100; com ressalva: 47, 85) e, depois, as séries sem verbete, com pesquisa em fontes públicas.
+- Próximos lotes: os verbetes do livro ainda não aproveitados (35, 78, 79, 83, 84, 88, 95, 97, 99, 100; com ressalva: 47, 85) e, depois, as séries sem verbete, com pesquisa em fontes públicas.

@@ -9,6 +9,7 @@ Fatos que lembro bem, mas que não foram verificados em fonte primária:
 - [ ] **Battlestar Galactica (37):** Prêmio Peabody de 2005. Conferir na lista de premiados do Peabody.
 
 - [ ] **Lote 2 (conferido em busca na web, mas só em fontes secundárias):** BAFTA de melhor série dramática de *Peaky Blinders* (2018); BAFTAs de *Happy Valley* (melhor série dramática e melhor atriz para Sarah Lancashire, 2017 e 2024); Emmy de roteiro de Louis C.K. por *Louie* (2012); Peabody de 2012 de *Parks and Recreation*; Globos de Ouro de *House of Cards* (Robin Wright, 2014; Kevin Spacey, 2015); participação de Joe Biden, então vice-presidente, em *Parks and Recreation*. Conferir nas bases oficiais (BAFTA, Television Academy, Peabody, Globos de Ouro).
+- [ ] **Lote 3 (só fontes secundárias):** Emmys e Globo de Ouro (2012) de *Downton Abbey*; BAFTA de melhor comédia de situação (2008) de *Peep Show* (o site do BAFTA não confirmou); Emmy de programa de competição de *RuPaul's Drag Race* (primeira vitória em 2018) e o recorde de RuPaul entre pessoas não brancas; BAFTAs de 2010 de *The Thick of It* (série, Capaldi e Rebecca Front); Emmy de 2002 de Michael Chiklis, os Globos de Ouro (anos divergem entre as fontes) e o Peabody de *The Shield*; os cinco Emmys seguidos de *Modern Family* e os Emmys de atuação de Bowen, Burrell e Stonestreet; título brasileiro *The Shield: Acima da Lei* ("a confirmar" em `pt_titles.py`); versão brasileira de *Drag Race* e o fato de a divisão Rampart ter inspirado *The Shield*.
 - [ ] **Homeland (38):** confirmar em fonte oficial que o Emmy de 2012 de roteiro foi pelo piloto e o de melhor atriz, de Claire Danes.
 
 ## Tamanho das resenhas (a decidir mais adiante)
@@ -24,7 +25,7 @@ Decisão do usuário: padronizar o tamanho por faixa de posição.
 
 - [x] Lote 1: 26, 27, 28, 31, 33, 37
 - [x] Lote 2: 38, 41, 43, 45, 48, 50
-- [ ] Lote 3: 52, 60, 61, 63, 70, 77
+- [x] Lote 3: 52, 60, 61, 63, 70, 77 (escrito com ~1.000 caracteres de texto cada; ajustar quando o tamanho por faixa for fechado)
 - [ ] Lote 4: 78, 79, 83, 84, 88, 95
 - [ ] Lote 5: 97, 99, 100
 - [ ] Com ressalva (usar o livro só como contexto): 35 (só a 1ª temporada), 47 (o livro cobre só a série original), 85 (título no livro: The Great British Bake Off)

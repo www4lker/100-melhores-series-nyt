@@ -490,5 +490,83 @@ F[50] = dict(
   "A graça está no afeto: a série é bem-humorada sem ser amarga, e a amizade entre os personagens vale mais que qualquer piada. Amy Poehler dá a Leslie energia e carisma contagiantes, e Nick Offerman fez de Ron Swanson um dos personagens mais queridos da TV americana. Políticos de verdade, como o então vice-presidente Joe Biden, fizeram participações. É uma série para ver quando se quer rir e sair de bom humor."
  ])
 
-_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50}
+F[52] = dict(
+    tagline="A vida de uma família aristocrática e de seus empregados numa mansão inglesa, no fim de uma era.",
+    genero="Drama de época", pais="Reino Unido", anos="2010–2015 · 6 temporadas",
+    elenco="Hugh Bonneville, Maggie Smith, Michelle Dockery, Elizabeth McGovern, Jim Carter, Joanne Froggatt, Dan Stevens, Phyllis Logan, Brendan Coyle",
+    emissora="ITV",
+    premios="Vários Emmys (foi uma das séries estrangeiras mais indicadas da história do prêmio) e Globo de Ouro de melhor minissérie (2012).",
+    parecido="Upstairs, Downstairs, Gosford Park (filme do mesmo roteirista), The Crown",
+    episodio="O primeiro episódio começa com a notícia do naufrágio do Titanic e apresenta a casa inteira, de cima a baixo.",
+    texto=[
+        "Em 1912, o naufrágio do Titanic muda o destino da família Crawley: o herdeiro da propriedade morreu e, como só os homens herdam o título e a mansão, Lord Grantham precisa aceitar como sucessor um primo distante, o advogado Matthew, que não entende nada daquele mundo. Enquanto os patrões decidem casamentos, heranças e aparências na sala de jantar, os empregados vivem os próprios amores, segredos e ambições no andar de baixo.",
+        "A série foi criada por Julian Fellowes, que já tinha ganhado o Oscar de roteiro por Assassinato em Gosford Park, e o trunfo é o equilíbrio entre o luxo visual e os personagens: Maggie Smith, como a condessa viúva, fica com as melhores falas. A Primeira Guerra, a gripe espanhola e o declínio da aristocracia entram como pano de fundo. É novela de época no melhor sentido, com ganchos e reviravoltas, ideal para quem quer algo confortável.",
+    ])
+
+F[60] = dict(
+    tagline="Dois colegas de apartamento em Londres, e nós ouvindo o que pensam, que quase nunca é o que dizem.",
+    genero="Comédia", pais="Reino Unido", anos="2003–2015 · 9 temporadas",
+    elenco="David Mitchell, Robert Webb, Olivia Colman, Matt King, Isy Suttie, Paterson Joseph",
+    emissora="Channel 4",
+    premios="BAFTA de melhor comédia de situação (2008), entre outros prêmios, principalmente de roteiro.",
+    parecido="The Office (Reino Unido), Curb Your Enthusiasm, Fleabag",
+    episodio="O primeiro episódio já tem tudo: o egoísmo, a covardia e os pensamentos em voz alta.",
+    texto=[
+        "Mark é um funcionário de escritório, tímido e conservador, apaixonado pela colega Sophie. Jeremy, o Jez, divide o apartamento com ele: preguiçoso, convencido, sonha em ser músico famoso. O truque da série é simples e eficaz: a câmera mostra quase sempre o que os dois veem, e ouvimos seus pensamentos em voz baixa, que contradizem o que dizem em voz alta e revelam vaidade, desejo e rancor.",
+        "David Mitchell e Robert Webb, dupla de comédia na vida real, fazem de dois sujeitos egoístas e covardes pessoas estranhamente queridas. Olivia Colman, futura vencedora do Oscar, é Sophie. O humor é de vergonha alheia, ácido e às vezes desconfortável, e pode cansar quem não tem estômago para isso. Quem gostou da versão britânica de The Office encontra aqui uma comédia ainda mais sombria.",
+    ])
+
+F[61] = dict(
+    tagline="Drag queens disputam desafios de moda, humor e performance para ganhar o título de superestrela da drag americana.",
+    genero="Reality de competição", pais="Estados Unidos", anos="2009–hoje",
+    elenco="RuPaul (apresentador), Michelle Visage, Carson Kressley, Ross Mathews (jurados)",
+    emissora="Logo, depois VH1 e MTV",
+    premios="Emmy de melhor programa de competição (a primeira vitória foi em 2018, repetida várias vezes); RuPaul é a pessoa não branca mais premiada da história do Emmy.",
+    parecido="Survivor, Project Runway, Pose",
+    episodio="Qualquer temporada serve de porta de entrada: as regras se explicam sozinhas.",
+    texto=[
+        "Cada temporada reúne mais de uma dezena de drag queens que disputam, semana após semana, desafios de costura, maquiagem, comédia, atuação e passarela. No fim de cada episódio, as duas piores dublam uma música, o chamado “lip sync for your life”, e uma delas é eliminada. A última que fica é coroada. O formato mistura a disputa de Survivor com a moda de Project Runway, com mais humor e muitas plumas.",
+        "O sucesso vem do carisma das participantes e de RuPaul, drag queen e cantora famosa desde os anos 1990, que apresenta e preside tudo. Por trás do brilho há histórias reais de preconceito e aceitação, e a série levou a arte drag das casas noturnas para a cultura popular, gerando versões em vários países, inclusive no Brasil. Não é arte elevada, mas diverte e, de vez em quando, emociona.",
+    ])
+
+F[63] = dict(
+    tagline="Nos bastidores do governo britânico, ministros atrapalhados e um chefe de comunicação que só sabe xingar.",
+    genero="Comédia política", pais="Reino Unido", anos="2005–2012 · 4 temporadas",
+    elenco="Peter Capaldi, Chris Langham, Rebecca Front, Chris Addison, Joanna Scanlan, James Smith, Paul Higgins, Roger Allam",
+    emissora="BBC Four e BBC Two",
+    premios="BAFTA de melhor comédia de situação, de melhor ator (Peter Capaldi) e de melhor atriz (Rebecca Front) em 2010.",
+    parecido="Veep, Yes, Minister, In the Loop (filme derivado da série)",
+    episodio="Comece pela 1ª temporada, que apresenta o estilo, e depois veja o filme In the Loop (2009).",
+    texto=[
+        "Malcolm Tucker é o diretor de comunicação do governo britânico e seu trabalho é apagar incêndios: sempre que um ministro erra, ele aparece para dar uma bronca furiosa, cheia de palavrões inventivos, e transformar o desastre numa notícia menos ruim. A série acompanha o ministério e seus assessores, filmados com câmera na mão e ar de documentário, e dá a impressão de que o país é governado por gente apavorada com a manchete do dia.",
+        "Peter Capaldi, que mais tarde seria o Doutor de Doctor Who, faz de Malcolm um monstro irresistível, e o elenco de apoio é todo afiado, em especial Rebecca Front como a ministra Nicola Murray. O criador, Armando Iannucci, também fez o filme In the Loop e a americana Veep. Aviso: os palavrões são tantos que fazem parte da piada, mas podem incomodar.",
+    ])
+
+F[70] = dict(
+    tagline="Um policial de Los Angeles que prende bandidos e fica com o que apreende, no comando de uma equipe acima da lei.",
+    genero="Drama policial", pais="Estados Unidos", anos="2002–2008 · 7 temporadas",
+    elenco="Michael Chiklis, C.C.H. Pounder, Walton Goggins, Jay Karnes, Catherine Dent, Kenny Johnson, Benito Martinez, David Rees Snell",
+    emissora="FX",
+    premios="Emmy de melhor ator em série dramática para Michael Chiklis (2002), o primeiro dado a um canal a cabo básico; Globos de Ouro de melhor série dramática e de melhor ator; Peabody.",
+    parecido="A Escuta (The Wire), Breaking Bad, Família Soprano",
+    episodio="O piloto estabelece o tom e termina com um ato que define o personagem pelo resto da série.",
+    texto=[
+        "Num distrito pobre de Los Angeles, o detetive Vic Mackey lidera a Strike Team, uma equipe de choque que prende criminosos e, ao mesmo tempo, fica com parte do que apreende. Vic resolve o caso e depois vai para casa ser pai e marido. A trama, inspirada em parte no escândalo de corrupção da divisão Rampart da polícia da cidade, mostra durante sete temporadas a conta chegando, paga também por quem está ao redor dele.",
+        "Foi uma das séries que abriram o caminho do anti-herói na TV a cabo, e uma das mais brutais. O texto não deixa o espectador torcer por Vic sem culpa: a detetive Claudette Wyms, vivida por C.C.H. Pounder, é a consciência da história, e Michael Chiklis está ótimo no papel principal. A narrativa é bem amarrada do começo ao fim. É uma série para adultos, com muita violência.",
+    ])
+
+F[77] = dict(
+    tagline="Três famílias ligadas pelo sangue em Los Angeles, seguidas por uma câmera de documentário que não perde nenhum constrangimento.",
+    genero="Comédia", pais="Estados Unidos", anos="2009–2020 · 11 temporadas",
+    elenco="Ed O'Neill, Sofía Vergara, Julie Bowen, Ty Burrell, Jesse Tyler Ferguson, Eric Stonestreet, Sarah Hyland, Ariel Winter, Nolan Gould, Rico Rodriguez",
+    emissora="ABC",
+    premios="Emmy de melhor série de comédia cinco anos seguidos (2010–2014) e Emmys de atuação para Julie Bowen, Ty Burrell e Eric Stonestreet.",
+    parecido="The Office (EUA), Confusões de Leslie (Parks and Recreation), Arrested Development",
+    episodio="O piloto apresenta todos os personagens e já mostra o tom da série.",
+    texto=[
+        "O patriarca Jay é casado com a bem mais jovem e expansiva Gloria. Sua filha Claire é casada com Phil, um corretor de imóveis que se acha o pai mais legal do mundo, e seu filho Mitchell, advogado, é casado com Cameron e criou com ele uma filha adotiva. Os três núcleos moram em Los Angeles, brigam, se ajudam e se encontram nas festas de família, com depoimentos à câmera no estilo de The Office.",
+        "A série foi um sucesso imediato e ganhou muitos prêmios nos primeiros anos. Mostrou um casal gay como parte comum de uma família da TV aberta americana, algo ainda raro no início, e o elenco afiado fez várias cenas virarem clássicos. Nas últimas temporadas a fórmula cansou, e as melhores são as primeiras. É comédia leve, fácil de maratonar.",
+    ])
+
+_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50, 52, 60, 61, 63, 70, 77}
 assert _NOVOS | set(range(1, 26)) == set(F), sorted(set(F) ^ (_NOVOS | set(range(1, 26))))
