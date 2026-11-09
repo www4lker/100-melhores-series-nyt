@@ -1,0 +1,602 @@
+[
+ {
+  "rank": 1,
+  "titulo_nyt": "Breaking Bad",
+  "anos_nyt": "2008-2013",
+  "no_livro": true
+ },
+ {
+  "rank": 2,
+  "titulo_nyt": "The Wire",
+  "anos_nyt": "2002-2008",
+  "no_livro": true
+ },
+ {
+  "rank": 3,
+  "titulo_nyt": "Mad Men",
+  "anos_nyt": "2007-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 4,
+  "titulo_nyt": "Succession",
+  "anos_nyt": "2018-2023",
+  "no_livro": false
+ },
+ {
+  "rank": 5,
+  "titulo_nyt": "Fleabag",
+  "anos_nyt": "2016-2019",
+  "no_livro": false
+ },
+ {
+  "rank": 6,
+  "titulo_nyt": "Game of Thrones",
+  "anos_nyt": "2011-2019",
+  "no_livro": true
+ },
+ {
+  "rank": 7,
+  "titulo_nyt": "Veep",
+  "anos_nyt": "2012-2019",
+  "no_livro": true
+ },
+ {
+  "rank": 8,
+  "titulo_nyt": "30 Rock",
+  "anos_nyt": "2006-2013",
+  "no_livro": true
+ },
+ {
+  "rank": 9,
+  "titulo_nyt": "Curb Your Enthusiasm",
+  "anos_nyt": "2000-2024",
+  "no_livro": true
+ },
+ {
+  "rank": 10,
+  "titulo_nyt": "Atlanta",
+  "anos_nyt": "2016-2022",
+  "no_livro": false
+ },
+ {
+  "rank": 11,
+  "titulo_nyt": "The Office (U.S.)",
+  "anos_nyt": "2005-2013",
+  "no_livro": true
+ },
+ {
+  "rank": 12,
+  "titulo_nyt": "Arrested Development",
+  "anos_nyt": "2003-2019",
+  "no_livro": true
+ },
+ {
+  "rank": 13,
+  "titulo_nyt": "Girls",
+  "anos_nyt": "2012-2017",
+  "no_livro": true
+ },
+ {
+  "rank": 14,
+  "titulo_nyt": "Friday Night Lights",
+  "anos_nyt": "2006-2011",
+  "no_livro": true
+ },
+ {
+  "rank": 15,
+  "titulo_nyt": "Six Feet Under",
+  "anos_nyt": "2001-2005",
+  "no_livro": true
+ },
+ {
+  "rank": 16,
+  "titulo_nyt": "The Office (U.K.)",
+  "anos_nyt": "2001-2003",
+  "no_livro": true
+ },
+ {
+  "rank": 17,
+  "titulo_nyt": "The Americans",
+  "anos_nyt": "2013-2018",
+  "no_livro": true
+ },
+ {
+  "rank": 18,
+  "titulo_nyt": "I May Destroy You",
+  "anos_nyt": "2020",
+  "no_livro": false
+ },
+ {
+  "rank": 19,
+  "titulo_nyt": "Chernobyl",
+  "anos_nyt": "2019",
+  "no_livro": false
+ },
+ {
+  "rank": 20,
+  "titulo_nyt": "The Crown",
+  "anos_nyt": "2016-2023",
+  "no_livro": false
+ },
+ {
+  "rank": 21,
+  "titulo_nyt": "The White Lotus",
+  "anos_nyt": "2021-present",
+  "no_livro": false
+ },
+ {
+  "rank": 22,
+  "titulo_nyt": "Lost",
+  "anos_nyt": "2004-2010",
+  "no_livro": true
+ },
+ {
+  "rank": 23,
+  "titulo_nyt": "The Comeback",
+  "anos_nyt": "2005-2026",
+  "no_livro": false
+ },
+ {
+  "rank": 24,
+  "titulo_nyt": "Deadwood",
+  "anos_nyt": "2004-2006",
+  "no_livro": true
+ },
+ {
+  "rank": 25,
+  "titulo_nyt": "The Leftovers",
+  "anos_nyt": "2014-2017",
+  "no_livro": true
+ },
+ {
+  "rank": 26,
+  "titulo_nyt": "Black Mirror",
+  "anos_nyt": "2011-present",
+  "no_livro": true
+ },
+ {
+  "rank": 27,
+  "titulo_nyt": "Better Call Saul",
+  "anos_nyt": "2015-2022",
+  "no_livro": true
+ },
+ {
+  "rank": 28,
+  "titulo_nyt": "Band of Brothers",
+  "anos_nyt": "2001",
+  "no_livro": true
+ },
+ {
+  "rank": 29,
+  "titulo_nyt": "Key & Peele",
+  "anos_nyt": "2012-2015",
+  "no_livro": false
+ },
+ {
+  "rank": 30,
+  "titulo_nyt": "Severance",
+  "anos_nyt": "2022-present",
+  "no_livro": false
+ },
+ {
+  "rank": 31,
+  "titulo_nyt": "Survivor",
+  "anos_nyt": "2000-present",
+  "no_livro": true
+ },
+ {
+  "rank": 32,
+  "titulo_nyt": "Andor",
+  "anos_nyt": "2022-2025",
+  "no_livro": false
+ },
+ {
+  "rank": 33,
+  "titulo_nyt": "Enlightened",
+  "anos_nyt": "2011-2013",
+  "no_livro": true
+ },
+ {
+  "rank": 34,
+  "titulo_nyt": "Schitt's Creek",
+  "anos_nyt": "2015-2020",
+  "no_livro": false
+ },
+ {
+  "rank": 35,
+  "titulo_nyt": "True Detective (Season 1)",
+  "anos_nyt": "2014",
+  "no_livro": true
+ },
+ {
+  "rank": 36,
+  "titulo_nyt": "The Pitt",
+  "anos_nyt": "2025-present",
+  "no_livro": false
+ },
+ {
+  "rank": 37,
+  "titulo_nyt": "Battlestar Galactica",
+  "anos_nyt": "2005-2009",
+  "no_livro": true
+ },
+ {
+  "rank": 38,
+  "titulo_nyt": "Homeland",
+  "anos_nyt": "2011-2020",
+  "no_livro": true
+ },
+ {
+  "rank": 39,
+  "titulo_nyt": "Watchmen",
+  "anos_nyt": "2019",
+  "no_livro": false
+ },
+ {
+  "rank": 40,
+  "titulo_nyt": "Adolescence",
+  "anos_nyt": "2025",
+  "no_livro": false
+ },
+ {
+  "rank": 41,
+  "titulo_nyt": "Louie",
+  "anos_nyt": "2010-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 42,
+  "titulo_nyt": "Hacks",
+  "anos_nyt": "2021-2026",
+  "no_livro": false
+ },
+ {
+  "rank": 43,
+  "titulo_nyt": "Peaky Blinders",
+  "anos_nyt": "2013-2022",
+  "no_livro": true
+ },
+ {
+  "rank": 44,
+  "titulo_nyt": "BoJack Horseman",
+  "anos_nyt": "2014-2020",
+  "no_livro": false
+ },
+ {
+  "rank": 45,
+  "titulo_nyt": "Happy Valley",
+  "anos_nyt": "2014-2023",
+  "no_livro": true
+ },
+ {
+  "rank": 46,
+  "titulo_nyt": "Broad City",
+  "anos_nyt": "2014-2019",
+  "no_livro": false
+ },
+ {
+  "rank": 47,
+  "titulo_nyt": "Twin Peaks: The Return",
+  "anos_nyt": "2017",
+  "no_livro": true
+ },
+ {
+  "rank": 48,
+  "titulo_nyt": "House of Cards",
+  "anos_nyt": "2013-2018",
+  "no_livro": true
+ },
+ {
+  "rank": 49,
+  "titulo_nyt": "Normal People",
+  "anos_nyt": "2020",
+  "no_livro": false
+ },
+ {
+  "rank": 50,
+  "titulo_nyt": "Parks and Recreation",
+  "anos_nyt": "2009-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 51,
+  "titulo_nyt": "The Good Place",
+  "anos_nyt": "2016-2020",
+  "no_livro": false
+ },
+ {
+  "rank": 52,
+  "titulo_nyt": "Downton Abbey",
+  "anos_nyt": "2010-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 53,
+  "titulo_nyt": "Stranger Things",
+  "anos_nyt": "2016-2025",
+  "no_livro": false
+ },
+ {
+  "rank": 54,
+  "titulo_nyt": "The Bureau",
+  "anos_nyt": "2015-2020",
+  "no_livro": false
+ },
+ {
+  "rank": 55,
+  "titulo_nyt": "Insecure",
+  "anos_nyt": "2016-2021",
+  "no_livro": false
+ },
+ {
+  "rank": 56,
+  "titulo_nyt": "Nathan for You",
+  "anos_nyt": "2013-2017",
+  "no_livro": false
+ },
+ {
+  "rank": 57,
+  "titulo_nyt": "I Think You Should Leave",
+  "anos_nyt": "2019-present",
+  "no_livro": false
+ },
+ {
+  "rank": 58,
+  "titulo_nyt": "Chappelle's Show",
+  "anos_nyt": "2003-2006",
+  "no_livro": false
+ },
+ {
+  "rank": 59,
+  "titulo_nyt": "PEN15",
+  "anos_nyt": "2019-2021",
+  "no_livro": false
+ },
+ {
+  "rank": 60,
+  "titulo_nyt": "Peep Show",
+  "anos_nyt": "2003-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 61,
+  "titulo_nyt": "RuPaul's Drag Race",
+  "anos_nyt": "2009-present",
+  "no_livro": true
+ },
+ {
+  "rank": 62,
+  "titulo_nyt": "Slow Horses",
+  "anos_nyt": "2022-present",
+  "no_livro": false
+ },
+ {
+  "rank": 63,
+  "titulo_nyt": "The Thick of It",
+  "anos_nyt": "2005-2012",
+  "no_livro": true
+ },
+ {
+  "rank": 64,
+  "titulo_nyt": "Anthony Bourdain: Parts Unknown",
+  "anos_nyt": "2013-2018",
+  "no_livro": false
+ },
+ {
+  "rank": 65,
+  "titulo_nyt": "Mare of Easttown",
+  "anos_nyt": "2021",
+  "no_livro": false
+ },
+ {
+  "rank": 66,
+  "titulo_nyt": "The Rehearsal",
+  "anos_nyt": "2022-present",
+  "no_livro": false
+ },
+ {
+  "rank": 67,
+  "titulo_nyt": "The Handmaid's Tale",
+  "anos_nyt": "2017-2025",
+  "no_livro": false
+ },
+ {
+  "rank": 68,
+  "titulo_nyt": "Ozark",
+  "anos_nyt": "2017-2022",
+  "no_livro": false
+ },
+ {
+  "rank": 69,
+  "titulo_nyt": "Anthony Bourdain: No Reservations",
+  "anos_nyt": "2005-2012",
+  "no_livro": false
+ },
+ {
+  "rank": 70,
+  "titulo_nyt": "The Shield",
+  "anos_nyt": "2002-2008",
+  "no_livro": true
+ },
+ {
+  "rank": 71,
+  "titulo_nyt": "Beef (Season 1)",
+  "anos_nyt": "2023",
+  "no_livro": false
+ },
+ {
+  "rank": 72,
+  "titulo_nyt": "Squid Game",
+  "anos_nyt": "2021-2025",
+  "no_livro": false
+ },
+ {
+  "rank": 73,
+  "titulo_nyt": "Barry",
+  "anos_nyt": "2018-2023",
+  "no_livro": false
+ },
+ {
+  "rank": 74,
+  "titulo_nyt": "The Bear",
+  "anos_nyt": "2022-2026",
+  "no_livro": false
+ },
+ {
+  "rank": 75,
+  "titulo_nyt": "Ted Lasso",
+  "anos_nyt": "2020-present",
+  "no_livro": false
+ },
+ {
+  "rank": 76,
+  "titulo_nyt": "Somebody Somewhere",
+  "anos_nyt": "2022-2024",
+  "no_livro": false
+ },
+ {
+  "rank": 77,
+  "titulo_nyt": "Modern Family",
+  "anos_nyt": "2009-2020",
+  "no_livro": true
+ },
+ {
+  "rank": 78,
+  "titulo_nyt": "It's Always Sunny in Philadelphia",
+  "anos_nyt": "2005-present",
+  "no_livro": true
+ },
+ {
+  "rank": 79,
+  "titulo_nyt": "The Good Wife",
+  "anos_nyt": "2009-2016",
+  "no_livro": true
+ },
+ {
+  "rank": 80,
+  "titulo_nyt": "How To With John Wilson",
+  "anos_nyt": "2020-2023",
+  "no_livro": false
+ },
+ {
+  "rank": 81,
+  "titulo_nyt": "The Queen's Gambit",
+  "anos_nyt": "2020",
+  "no_livro": false
+ },
+ {
+  "rank": 82,
+  "titulo_nyt": "Better Things",
+  "anos_nyt": "2016-2022",
+  "no_livro": false
+ },
+ {
+  "rank": 83,
+  "titulo_nyt": "Justified",
+  "anos_nyt": "2010-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 84,
+  "titulo_nyt": "Planet Earth",
+  "anos_nyt": "2006",
+  "no_livro": true
+ },
+ {
+  "rank": 85,
+  "titulo_nyt": "The Great British Baking Show",
+  "anos_nyt": "2010-present",
+  "no_livro": true
+ },
+ {
+  "rank": 86,
+  "titulo_nyt": "Shogun",
+  "anos_nyt": "2024-present",
+  "no_livro": true
+ },
+ {
+  "rank": 87,
+  "titulo_nyt": "Reservation Dogs",
+  "anos_nyt": "2021-2023",
+  "no_livro": false
+ },
+ {
+  "rank": 88,
+  "titulo_nyt": "Dexter",
+  "anos_nyt": "2006-2013",
+  "no_livro": true
+ },
+ {
+  "rank": 89,
+  "titulo_nyt": "Baby Reindeer",
+  "anos_nyt": "2024",
+  "no_livro": false
+ },
+ {
+  "rank": 90,
+  "titulo_nyt": "Eastbound & Down",
+  "anos_nyt": "2009-2013",
+  "no_livro": false
+ },
+ {
+  "rank": 91,
+  "titulo_nyt": "Catastrophe",
+  "anos_nyt": "2015-2019",
+  "no_livro": false
+ },
+ {
+  "rank": 92,
+  "titulo_nyt": "The Night Of",
+  "anos_nyt": "2016",
+  "no_livro": false
+ },
+ {
+  "rank": 93,
+  "titulo_nyt": "Station Eleven",
+  "anos_nyt": "2021-2022",
+  "no_livro": false
+ },
+ {
+  "rank": 94,
+  "titulo_nyt": "The Diplomat",
+  "anos_nyt": "2023-present",
+  "no_livro": false
+ },
+ {
+  "rank": 95,
+  "titulo_nyt": "House",
+  "anos_nyt": "2004-2012",
+  "no_livro": true
+ },
+ {
+  "rank": 96,
+  "titulo_nyt": "Halt and Catch Fire",
+  "anos_nyt": "2014-2017",
+  "no_livro": false
+ },
+ {
+  "rank": 97,
+  "titulo_nyt": "Community",
+  "anos_nyt": "2009-2015",
+  "no_livro": true
+ },
+ {
+  "rank": 98,
+  "titulo_nyt": "The OA",
+  "anos_nyt": "2016-2019",
+  "no_livro": false
+ },
+ {
+  "rank": 99,
+  "titulo_nyt": "Gilmore Girls",
+  "anos_nyt": "2000-2007",
+  "no_livro": true
+ },
+ {
+  "rank": 100,
+  "titulo_nyt": "Scandal",
+  "anos_nyt": "2012-2018",
+  "no_livro": true
+ }
+]

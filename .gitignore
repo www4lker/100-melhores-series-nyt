@@ -1,0 +1,5 @@
+# Material derivado do livro "1001 TV Shows" (imagens, OCR, páginas) e versão de uso pessoal:
+# NUNCA versionar nem publicar.
+privado/
+__pycache__/
+*.pyc
