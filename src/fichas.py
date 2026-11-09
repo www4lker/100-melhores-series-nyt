@@ -410,4 +410,85 @@ F[37] = dict(
   "Mais que batalhas espaciais, a série se interessa por política, religião, medo e tortura, em temas que ecoavam os anos pós-11 de setembro. A câmera instável e os diálogos nervosos dão aspecto de documentário ao futuro distante, e a atuação do elenco é de primeira. A última temporada divide opiniões, mas o conjunto é um dos grandes marcos da ficção científica na TV, que fez muita gente passar a levar o gênero a sério."
  ])
 
-assert {26, 27, 28, 31, 33, 37} | set(range(1, 26)) == set(F), sorted(set(F) ^ ({26, 27, 28, 31, 33, 37} | set(range(1, 26))))
+# ---- Lote 2 (posições 38–50): textos escritos do zero; prêmios conferidos em busca na web ----
+
+F[38] = dict(
+ tagline="Uma agente da CIA, instável e brilhante, desconfia do soldado que voltou vivo depois de oito anos de cativeiro.",
+ genero="Thriller de espionagem", pais="Estados Unidos", anos="2011–2020 · 8 temporadas",
+ elenco="Claire Danes, Damian Lewis, Mandy Patinkin, Rupert Friend, Morena Baccarin, F. Murray Abraham",
+ emissora="Showtime",
+ premios="Emmy de melhor série dramática em 2012, com prêmios também para Claire Danes (atriz), Damian Lewis (ator) e para o roteiro do piloto.",
+ parecido="24 Horas, The Americans, Fauda",
+ episodio="O piloto (1ª temporada, ep. 1), premiado com o Emmy de roteiro.",
+ texto=[
+  "Carrie Mathison é analista da CIA, tem transtorno bipolar escondido dos chefes e uma suspeita que ninguém quer ouvir: o sargento Nicholas Brody, fuzileiro naval dado como morto e resgatado depois de oito anos preso pela Al-Qaeda, pode ter sido convertido e voltado aos Estados Unidos para um atentado. A série, adaptada de uma produção israelense, começa como um jogo de gato e rato entre os dois, e Carrie passa a ser, ao mesmo tempo, a única pessoa que enxerga o perigo e a menos confiável para dizer isso.",
+  "O tema é a paranoia da era pós-11 de setembro, e a série acerta ao deixar o espectador em dúvida sobre quem está certo. Claire Danes é o centro de tudo e levou o Emmy pelo papel, e Mandy Patinkin faz o mentor Saul, o coração da série. Depois de uma primeira temporada quase perfeita, o enredo vai ao Oriente Médio, a Berlim e a Washington, com altos e baixos de qualidade. Quem gosta de suspense político com personagens complexos deve ver ao menos as duas primeiras temporadas."
+ ])
+
+F[41] = dict(
+ tagline="Um comediante divorciado de Nova York conta a própria vida em episódios que viram contos, fábulas e pesadelos.",
+ genero="Comédia dramática", pais="Estados Unidos", anos="2010–2015 · 5 temporadas",
+ elenco="Louis C.K., Pamela Adlon, Hadley Delany, Ursula Parker; participação de David Lynch",
+ emissora="FX",
+ premios="Emmy de melhor roteiro de comédia para Louis C.K. (2012).",
+ parecido="Fleabag, Atlanta, Curb Your Enthusiasm",
+ episodio="“Late Show”, trilogia de episódios da 3ª temporada (eps. 10 a 12).",
+ texto=[
+  "Louis C.K. escreve, dirige, edita e estrela esta comédia sobre um humorista que se vira como pode: cria duas filhas, tenta namorar, trabalha em clubes de stand-up e enfrenta o mundo com mais ironia do que sorte. Cada episódio mostra trechos de uma apresentação dele no palco e, em seguida, uma ou duas histórias curtas que nascem da piada — às vezes realistas, às vezes absurdas, com personagens que muitas vezes não voltam mais. O estilo é tão pessoal que cada capítulo parece um pequeno filme independente.",
+  "O que fez a série ser tão elogiada foi a liberdade: não tem linha fixa de enredo, mistura risada com tristeza e se permite ficar desconfortável. Pamela Adlon, que faz uma amiga recorrente do protagonista, também é parte importante do resultado. Um aviso necessário: em 2017, Louis C.K. admitiu ter tido condutas sexuais inadequadas com mulheres, o que afetou a carreira dele e a circulação da série. Quem decidir ver deve saber disso e julgar por conta própria."
+ ])
+
+F[43] = dict(
+ tagline="Uma gangue de Birmingham, um veterano de guerra ambicioso e muita fumaça de fábrica, em 1919.",
+ genero="Drama histórico, policial", pais="Reino Unido", anos="2013–2022 · 6 temporadas",
+ elenco="Cillian Murphy, Helen McCrory, Paul Anderson, Sophie Rundle, Tom Hardy, Sam Neill, Annabelle Wallis, Anya Taylor-Joy",
+ emissora="BBC (no Brasil, Netflix)",
+ premios="BAFTA TV de melhor série dramática em 2018.",
+ parecido="Boardwalk Empire, Família Soprano, Taboo",
+ episodio="O primeiro episódio (1ª temporada, ep. 1) já traz o tom: violência, charme e uma trilha de rock.",
+ texto=[
+  "Na Inglaterra logo depois da Primeira Guerra Mundial, os Peaky Blinders são uma gangue da classe operária de Birmingham, e a série os acompanha sob o comando de Thomas Shelby, veterano condecorado que quer sair do bairro e dos becos. A família tem negócios de apostas, contrabando e proteção, e seu caminho cruza o de policiais, comunistas, irlandeses e, mais tarde, de políticos e fascistas. O nome, diz a lenda, vem de lâminas escondidas em bonés.",
+  "A série deixa a verdade histórica em segundo plano para fazer um espetáculo de estilo: câmera lenta, uma luz de fim de mundo e uma trilha com rock moderno (Nick Cave, Arctic Monkeys, PJ Harvey) tocando em plena Inglaterra dos anos 1920. Cillian Murphy faz de Tommy um homem frio e melancólico, de olhar azul e sorriso raro, e Helen McCrory, como a tia Polly, rouba cada cena em que aparece. Algumas temporadas são mais fortes que outras, mas poucas séries criaram uma identidade tão forte e tão facilmente copiável."
+ ])
+
+F[45] = dict(
+ tagline="Uma sargento de polícia, avó e exausta, enfrenta o homem que destruiu a família dela.",
+ genero="Drama policial", pais="Reino Unido", anos="2014–2023 · 3 temporadas",
+ elenco="Sarah Lancashire, James Norton, Siobhan Finneran, Charlie Murphy, George Costigan, Con O’Neill",
+ emissora="BBC One",
+ premios="BAFTA TV de melhor série dramática; Sarah Lancashire ganhou o BAFTA de melhor atriz (2017 e 2024).",
+ parecido="Broadchurch, Line of Duty, Mare of Easttown",
+ episodio="O primeiro episódio (1ª temporada, ep. 1) mostra tudo o que a série tem de melhor.",
+ texto=[
+  "Catherine Cawood é sargento de polícia no vale de Calder, no norte da Inglaterra, e cria o neto sozinha depois do suicídio da filha. O homem que ela culpa por essa tragédia, o criminoso Tommy Lee Royce, volta a cruzar o seu caminho, e um sequestro mal planejado por pequenos bandidos acaba virando a crise que ela precisa resolver. O nome vem de um apelido irônico dado pelos moradores à região, castigada pelas drogas.",
+  "Escrita por Sally Wainwright, a série se destaca por reunir um thriller de verdade com cenas de cozinha, luto e humor seco. Sarah Lancashire, em papel que lhe rendeu prêmios, constrói uma mulher irritadiça, corajosa e vulnerável, e James Norton faz um vilão que assusta sem exagero. A ação não perde espaço para o drama familiar, e esse equilíbrio é raro. Em três temporadas, a história se fecha bem, sem arrastar o que tinha a dizer."
+ ])
+
+F[48] = dict(
+ tagline="Um congressista traído jura vingança e conversa com a câmera enquanto avança sobre Washington.",
+ genero="Drama político", pais="Estados Unidos", anos="2013–2018 · 6 temporadas",
+ elenco="Kevin Spacey, Robin Wright, Michael Kelly, Kate Mara, Corey Stoll, Molly Parker",
+ emissora="Netflix",
+ premios="Primeira série feita para a internet a vencer Emmys (2013, incluindo direção para David Fincher); Globos de Ouro para Robin Wright (2014) e Kevin Spacey (2015).",
+ parecido="A Escuta, Veep, Homeland",
+ episodio="O piloto (1ª temporada, ep. 1), dirigido por David Fincher.",
+ texto=[
+  "Frank Underwood é um deputado democrata, um dos líderes da bancada na Câmara, que se sente traído depois que o novo presidente o deixa de fora do cargo que ele achava merecido. Com a ajuda da mulher, Claire, e de um assessor leal, ele passa a manipular rivais, jornalistas e aliados para subir no poder. Frank fala diretamente com o espectador, comentando o que faz, num recurso herdado da série britânica de mesmo nome (que, por sua vez, veio de um romance).",
+  "Foi a primeira grande aposta da Netflix em produção própria e mudou a TV de dois jeitos: lançou a temporada inteira de uma vez, criando o hábito de maratonar, e mostrou que o streaming podia competir com os canais em prestígio. A direção estilizada de David Fincher nos dois primeiros episódios marcou o tom. Em 2017, Kevin Spacey foi afastado após acusações de assédio, e a última temporada, de 2018, foi feita sem ele, centrada em Claire. O ritmo cai com o tempo, mas as duas primeiras temporadas são um bom thriller político."
+ ])
+
+F[50] = dict(
+ tagline="Uma funcionária pública entusiasmada acredita que um terreno baldio pode virar um parque — e a cidade inteira.",
+ genero="Comédia", pais="Estados Unidos", anos="2009–2015 · 7 temporadas",
+ elenco="Amy Poehler, Rashida Jones, Aziz Ansari, Nick Offerman, Aubrey Plaza, Chris Pratt, Adam Scott, Rob Lowe, Retta",
+ emissora="NBC",
+ premios="Peabody (2012) e Globo de Ouro de melhor atriz em comédia para Amy Poehler (2014); muitas indicações ao Emmy, mas nenhuma vitória.",
+ parecido="The Office (EUA), Brooklyn Nine-Nine, Veep",
+ episodio="Muitos fãs recomendam começar pela 2ª temporada: a 1ª, mais fraca, é opcional.",
+ texto=[
+  "Leslie Knope é vice-diretora do Departamento de Parques e Recreação de Pawnee, uma cidade fictícia de Indiana, e acredita de verdade no serviço público. No começo, quer transformar um buraco abandonado num parque; depois, sonha ser prefeita e, quem sabe, presidente. A série, filmada em estilo de documentário, como The Office, segue a equipe da prefeitura: a enfermeira Ann, o libertário Ron Swanson, que odeia o governo que o emprega, a estagiária de humor ácido April e o simpático e desastrado Andy.",
+  "A graça está no afeto: a série é bem-humorada sem ser amarga, e a amizade entre os personagens vale mais que qualquer piada. Amy Poehler dá a Leslie energia e carisma contagiantes, e Nick Offerman fez de Ron Swanson um dos personagens mais queridos da TV americana. Políticos de verdade, como o então vice-presidente Joe Biden, fizeram participações. É uma série para ver quando se quer rir e sair de bom humor."
+ ])
+
+_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50}
+assert _NOVOS | set(range(1, 26)) == set(F), sorted(set(F) ^ (_NOVOS | set(range(1, 26))))
