@@ -2,11 +2,15 @@
 """Gera site/index.html (versão publicável): só texto próprio + dados factuais.
 Nada do livro (imagens, OCR, páginas). Uso: python src/assemble_public.py"""
 import json, re, os, sys
+from urllib.parse import quote_plus
 SP = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.dirname(SP)
 sys.path.insert(0, SP)
 from pt_titles import PT
 from fichas import F
+
+# {rank: "https://www.imdb.com/title/ttNNNNNNN/"} — só IDs conferidos; os demais usam a busca.
+IMDB_IDS = {}
 
 lista = json.load(open(os.path.join(ROOT, "data", "lista_nyt.json"), encoding="utf-8"))
 
@@ -24,7 +28,9 @@ for r in lista:
     k = r["rank"]
     pt = PT[k]
     anos = (r["anos_nyt"] or "").replace("-present", "–hoje").replace("-", "–")
-    it = {"rank": k, "nyt": r["titulo_nyt"], "anos": anos, "pt": pt[0], "alt": alt_limpo(pt[4]), "ficha": None}
+    # Link do IMDb: busca pelo título original (troque por ID direto em IMDB_IDS quando verificado)
+    imdb = IMDB_IDS.get(k) or "https://www.imdb.com/find/?s=tt&ttype=tv&q=" + quote_plus(r["titulo_nyt"])
+    it = {"rank": k, "nyt": r["titulo_nyt"], "anos": anos, "pt": pt[0], "alt": alt_limpo(pt[4]), "imdb": imdb, "ficha": None}
     if k in F:
         d = dict(F[k])
         it["ficha"] = {x: (d.get(x) or "") for x in ("tagline", "genero", "pais", "anos", "elenco", "emissora", "premios", "parecido", "episodio")}

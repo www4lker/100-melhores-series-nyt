@@ -18,6 +18,8 @@ e fichas/resenhas em texto próprio. Público: leitor leigo brasileiro.
   Nenhum texto, imagem ou paráfrase próxima do livro entra em `src/`, `data/` ou `site/`.
 - Títulos em português só quando existe título oficial conhecido; senão, mantém-se o original.
 
+- Como escrever as fichas (tamanhos por faixa, spoilers, IMDb): ver `GUIA_EDITORIAL.md`.
+
 ## Gerar a página
 
 ```bash
@@ -26,7 +28,7 @@ python src/assemble_public.py
 
 ## Estado
 
-- Fichas completas (43): posições 1–25; lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50); lote 3 (52, 60, 61, 63, 70, 77).
+- Fichas completas (52): posições 1–25 (1–10 no tamanho novo, ~2000 caracteres; 11–25 com ~1500; ambas com botão “Ler mais”); lote 1 (26, 27, 28, 31, 33, 37); lote 2 (38, 41, 43, 45, 48, 50); lote 3 (52, 60, 61, 63, 70, 77); lote 4 (78, 79, 83, 84, 88, 95); lote 5 (97, 99, 100).
 - Demais posições: só título e anos ("Ficha em preparação").
 - Pendências e fatos a conferir em fonte oficial: ver `TODO.md`.
-- Próximos lotes: os verbetes do livro ainda não aproveitados (35, 78, 79, 83, 84, 88, 95, 97, 99, 100; com ressalva: 47, 85) e, depois, as séries sem verbete, com pesquisa em fontes públicas.
+- Próximos lotes: os verbetes do livro ainda não aproveitados (com ressalva: 35, 47, 85) e, depois, as séries sem verbete, com pesquisa em fontes públicas.

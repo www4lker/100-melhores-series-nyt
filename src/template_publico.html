@@ -79,6 +79,11 @@ textarea.note{width:calc(100% - 20px);margin:0 10px 10px;min-height:56px;padding
 .txt{padding:14px clamp(12px,3vw,26px);font:16px/1.65 var(--serif);max-width:72ch}
 .txt p{margin:0 0 .85em}
 .txt p:last-child{margin-bottom:0}
+.txt #more{margin-top:.85em}
+.txt #more[hidden]{display:none}
+.more-btn{margin-top:12px}
+.d-links{margin:4px 0 0;font:12px var(--mono)}
+.d-links a{color:var(--blue)}
 .nav{display:flex;gap:6px;margin:0 0 12px}
 .none{padding:14px 12px;font-size:14px;max-width:62ch}
 .none b{font-family:var(--serif)}
@@ -190,6 +195,12 @@ function counts(){
 
 /* ---- detalhe ---- */
 function f(dt,dd){return dd?`<dt>${dt}</dt><dd>${dd}</dd>`:''}
+/* resenha: até 2 parágrafos aparecem inteiros; com mais de 2, só o 1º aparece e o resto fica atrás de "Ler mais" */
+function corpo(P){
+  const par=a=>a.map(p=>`<p>${esc(p)}</p>`).join('');
+  if(P.length<=2) return par(P);
+  return par(P.slice(0,1))+`<div id="more" hidden>${par(P.slice(1))}</div><button class="btn more-btn" id="morebtn" aria-expanded="false" aria-controls="more">Ler mais</button>`;
+}
 function select(r,open){
   sel=r; const i=ITEMS.find(x=>x.rank===r); if(!i) return;
   [...document.querySelectorAll('.row')].forEach(el=>el.setAttribute('aria-selected',+el.dataset.r===r));
@@ -199,6 +210,7 @@ function select(r,open){
    <div class="d-rank">Nº ${i.rank} DE 100 · NYT</div>
    <h2 class="d-title">${esc(i.pt)}</h2>
    <p class="d-sub">${sub}</p>
+   <p class="d-links"><a href="${esc(i.imdb)}" target="_blank" rel="noopener noreferrer">Buscar no IMDb ↗</a></p>
    ${F?`<p class="tagline">${esc(F.tagline)}</p>`:''}
    <div class="card"><h3><span>Minhas marcações</span><span id="ckst"></span></h3>
     <div class="checks">
@@ -212,7 +224,7 @@ function select(r,open){
       ${f('Gênero',esc(F.genero))}${f('País',esc(F.pais))}${f('Exibição',esc(F.anos))}${f('Elenco',esc(F.elenco))}
       ${f('Emissora original',esc(F.emissora))}${f('Prêmios',esc(F.premios))}${f('Para quem gosta de',esc(F.parecido))}${f('Episódio de destaque',esc(F.episodio))}${f('Também conhecida como',esc(i.alt))}
      </dl></div>
-     <div class="card"><h3><span>Sobre a série</span></h3><div class="txt">${F.texto.map(p=>`<p>${esc(p)}</p>`).join('')}</div></div>`;
+     <div class="card"><h3><span>Sobre a série</span></h3><div class="txt">${corpo(F.texto)}</div></div>`;
   }else{
     h+=`<div class="card"><h3><span>Sobre a série</span></h3><div class="none"><b>Ficha em preparação.</b><br>Por enquanto esta página traz só a posição na lista do NYT, o título e os anos de exibição.${i.alt?`<br><br>Também conhecida como: ${esc(i.alt)}.`:''}</div></div>`;
   }
@@ -226,6 +238,7 @@ $('#detail').addEventListener('click',e=>{
   const t=e.target;
   if(t.id==='back') document.body.classList.remove('showdetail');
   else if(t.id==='prev') step(-1); else if(t.id==='next') step(1);
+  else if(t.id==='morebtn'){const m=$('#more'),abrir=m.hidden;m.hidden=!abrir;t.setAttribute('aria-expanded',abrir);t.textContent=abrir?'Ler menos':'Ler mais'}
 });
 $('#detail').addEventListener('change',e=>{
   if(e.target.matches('input[type=checkbox][data-k]')){setv(sel,e.target.dataset.k,e.target.checked);const row=$(`.row[data-r="${sel}"] input[data-k="${e.target.dataset.k}"]`);if(row)row.checked=e.target.checked;ckst(sel);counts();if(['nvi','vi','qv'].includes(filt))renderList()}

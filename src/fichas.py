@@ -14,8 +14,10 @@ F[1] = dict(
  parecido="Família Soprano, Better Call Saul, Ozark",
  episodio="“Ozymandias” (5ª temporada, ep. 14) — veja só depois de chegar lá.",
  texto=[
-  "Walter White tem cinquenta anos, dá aulas de química a adolescentes desinteressados, faz bico num lava-rápido e acaba de receber o diagnóstico de um câncer de pulmão. Sem dinheiro para o tratamento e com um filho com paralisia cerebral e outro a caminho, ele decide usar o único talento que lhe resta: fabricar metanfetamina de pureza raríssima, ao lado de um ex-aluno, Jesse Pinkman. A ideia é deixar algum dinheiro para a família e sair de cena.",
-  "O que Vince Gilligan criou não é a história de um homem bom empurrado para o crime. É o inverso: a série mostra o orgulho, o ressentimento e a vaidade de Walter vindo à tona e encontrando, no mundo das drogas, o primeiro palco em que ele é o melhor em alguma coisa. A mudança é lenta, e por isso convence — cada decisão parece razoável no momento em que é tomada. Bryan Cranston, até então mais lembrado como o pai de uma comédia, sustenta isso com uma atuação que dá medo, e Aaron Paul é o contraponto emocional. Com roteiros muito bem amarrados, cenas de tensão que funcionam como mecanismos de relógio e a paisagem seca do Novo México como marca visual, é uma das poucas séries que terminam à altura do que prometeram."
+  "Walter White é professor de química numa escola de Albuquerque, no Novo México, e faz bico num lava-rápido para fechar as contas. Aos cinquenta anos, descobre um câncer de pulmão e percebe que a família ficará sem nada quando ele morrer. A saída que encontra é usar o que sabe de química para fabricar metanfetamina de qualidade excepcional, em parceria com Jesse Pinkman, um ex-aluno que já circula pelo mundo das drogas. O plano era ganhar o suficiente e sair de cena.",
+  "O que a torna especial é a direção em que a história anda. Vince Gilligan, o criador, dizia querer transformar o professor bonachão de um filme clássico num gângster de cinema, e a série mostra isso com paciência, uma decisão de cada vez. Em vez de um homem bom empurrado para o crime, vemos orgulho, ressentimento e vaidade encontrando enfim um palco. Bryan Cranston, antes mais lembrado como o pai atrapalhado de uma comédia, faz um trabalho de precisão enorme, e Aaron Paul dá a Jesse a humanidade que contrabalança Walter. Os roteiros são tão bem amarrados que detalhes plantados cedo voltam, temporadas depois, com consequências.",
+  "Estreou em 2008 no AMC, canal que então quase não fazia séries próprias, e foi crescendo até virar fenômeno. Ajudou a firmar a ideia de que a televisão pode contar uma história longa com começo, meio e fim planejados. Deu origem ao prólogo Better Call Saul (2015–2022), também nesta lista, e ao filme El Camino (2019).",
+  "Serve a quem gosta de suspense bem construído e de personagens que desafiam a nossa simpatia. Não é para quem não suporta violência, tensão prolongada ou histórias em que tudo piora antes de melhorar. A série guarda revelações importantes, sobretudo da metade em diante, então vale fugir de resumos e comentários antes de ver. Comece pelo primeiro episódio: a 1ª temporada, mais curta que as outras, já mostra o rumo e dá para saber logo se a série é para você."
  ])
 
 F[2] = dict(
@@ -27,8 +29,10 @@ F[2] = dict(
  parecido="Família Soprano, Deadwood, The Shield: Acima da Lei",
  episodio="“Middle Ground” (3ª temporada, ep. 11).",
  texto=[
-  "Criada por David Simon, ex-repórter policial do jornal The Baltimore Sun, e pelo ex-policial Ed Burns, A Escuta começa como uma investigação: uma equipe de detetives grampeia telefones para derrubar uma quadrilha do tráfico em Baltimore. Mas cada temporada alarga o enquadramento. Depois dos policiais e dos traficantes, a série passa pelo porto, pela prefeitura, pelas escolas públicas e pela redação de um jornal, até compor um retrato de como as instituições de uma grande cidade americana falham juntas.",
-  "Não é série para ver distraído. Há pouca explicação, muita gíria e dezenas de personagens, e a recompensa chega devagar — mas chega. Seu maior mérito é recusar a divisão entre mocinhos e bandidos: policiais acomodados, políticos oportunistas e criminosos com código de honra dividem o mesmo quadro, todos presos a sistemas maiores que eles. Entre os personagens mais lembrados estão o detetive McNulty, o chefão Stringer Bell e Omar, o assaltante que só rouba traficantes."
+  "Em Baltimore, uma equipe de policiais recebe a missão de derrubar uma quadrilha do tráfico de drogas e começa a grampear telefones. A cada temporada, a câmera se afasta um pouco mais da esquina e passa a mostrar o resto da cidade: o porto, a prefeitura, as escolas públicas, a redação de um jornal. O fio que costura tudo é uma pergunta incômoda: por que as instituições americanas, com tanta gente competente dentro delas, falham tanto?",
+  "David Simon, ex-repórter policial do jornal The Baltimore Sun, e Ed Burns, ex-detetive e depois professor, escreveram a série com o conhecimento de quem viu aquilo de perto, e isso se nota. Os diálogos são cheios de gíria e quase nunca explicam nada; os personagens, dezenas, não se dividem entre mocinhos e bandidos. Policiais cansados, traficantes com código de honra, políticos oportunistas e professores dedicados dividem o mesmo quadro, presos a sistemas maiores do que eles. Entre os mais lembrados estão o detetive McNulty, o estrategista Stringer Bell, de Idris Elba, e Omar, de Michael K. Williams, o assaltante que só rouba traficantes.",
+  "Foi exibida pela HBO entre 2002 e 2008 e não foi grande sucesso de audiência na época. A fama veio depois, quando mais gente passou a descobri-la em maratona e ela virou presença constante em listas de melhor série de todos os tempos. Nunca ganhou um Emmy, o que se tornou símbolo de injustiça entre críticos e fãs, e seu jeito de retratar uma cidade inteira como um sistema influenciou muito do que veio depois.",
+  "Serve a quem gosta de histórias longas e exigentes, para ver com atenção. Não é para quem busca ação rápida ou explicações pelo caminho: as primeiras horas pedem paciência, porque a série confia que você ligará os pontos sozinho, e essa confiança é a recompensa. Comece pelo primeiro episódio e siga a ordem, pois cada temporada muda de cenário mas só faz sentido pelo que veio antes. Muitos fãs veem na quarta, sobre as escolas, a mais devastadora."
  ])
 
 F[3] = dict(
@@ -40,8 +44,10 @@ F[3] = dict(
  parecido="Halt and Catch Fire, Succession, The Americans: Rede de Espionagem",
  episodio="“The Suitcase” (4ª temporada, ep. 7).",
  texto=[
-  "Nova York, 1960. Don Draper é o publicitário mais admirado da agência Sterling Cooper, na Madison Avenue: elegante, talentoso, com casa no subúrbio, mulher bonita e filhos. Só que “Don Draper” é uma identidade emprestada, e o que parece sucesso é uma construção cuidadosa para esconder quem ele foi. A série de Matthew Weiner acompanha a agência ao longo da década, enquanto a América dos cigarros em todas as mesas e dos almoços com martíni dá lugar à dos direitos civis, da contracultura e do feminismo.",
-  "Mad Men é lenta de propósito. As cenas se constroem de pausas, olhares e frases que dizem o contrário do que parecem, e a reconstituição de época — ternos, móveis, tipografia — é tão minuciosa que influenciou moda e design. Sob o verniz, a série trata de reinvenção e solidão, e dá atenção especial a Peggy Olson (Elisabeth Moss), que sobe de secretária a redatora num meio hostil às mulheres. Foi também a série que firmou o canal AMC como casa de dramas de prestígio."
+  "Nova York, 1960. Don Draper é o diretor de criação mais admirado da agência Sterling Cooper, na Madison Avenue: elegante, brilhante, com casa no subúrbio, esposa bonita e filhos. Mas “Don Draper” guarda segredos, e a imagem de sucesso é montada com cuidado para escondê-los. A série acompanha a agência e as pessoas que passam por ela ao longo dos anos 1960, enquanto a América dos cigarros acesos em qualquer sala e do uísque no meio do expediente vai dando lugar à dos direitos civis, da contracultura e do feminismo.",
+  "Mad Men é lenta de propósito, e é aí que mora o seu encanto. As cenas se constroem de pausas, olhares e frases que dizem o contrário do que parecem, e a reconstituição de época — ternos, móveis, tipografia, o jeito de tratar as secretárias — é tão minuciosa que influenciou a moda e o design. Sob o verniz, a série trata de reinvenção, solidão e da distância entre a imagem que se vende e a vida que se tem. Jon Hamm segura o centro, mas ela é igualmente de Peggy Olson (Elisabeth Moss), que sobe de secretária a redatora num meio hostil às mulheres.",
+  "Criada por Matthew Weiner, que antes escrevera para Família Soprano, estreou em 2007 no AMC, canal até então conhecido por filmes antigos. O sucesso dela, depois acompanhado pelo de Breaking Bad, fez do canal uma casa de dramas de prestígio. Levou o Emmy de melhor série dramática quatro anos seguidos e mostrou que um drama de época pode falar do presente sem fazer sermão.",
+  "Serve a quem gosta de personagens complexos, de reconstituição de época e de histórias em que o drama mora nas pequenas coisas. Não é para quem espera reviravolta a cada episódio: o ritmo é contemplativo e o protagonista pode irritar. Há mudanças na vida dos personagens que valem ser descobertas por conta própria, então fuja de resumos. Comece pelo piloto, que já apresenta o mundo e o enigma de Don; a apresentação do carrossel, no fim da 1ª temporada, é uma das cenas mais citadas da TV."
  ])
 
 F[4] = dict(
@@ -53,8 +59,10 @@ F[4] = dict(
  parecido="Veep, Mad Men: Inventando Verdades, The Thick of It",
  episodio="“Connor’s Wedding” (4ª temporada, ep. 9).",
  texto=[
-  "Logan Roy, fundador de um conglomerado de mídia que lembra bastante o império de Rupert Murdoch, está velho e doente, e seus filhos adultos disputam — com mais ou menos disfarce — o direito de herdar a empresa. Criada pelo britânico Jesse Armstrong, que também escreveu The Thick of It, a série troca o brilho habitual das histórias de ricos por algo mais corrosivo: aqui o dinheiro não compra afeto, só protege os personagens das consequências.",
-  "Funciona como comédia e como tragédia ao mesmo tempo. Os diálogos, cheios de insultos elaborados, rendem risadas incômodas, e o elenco — com destaque para Brian Cox, Sarah Snook, Kieran Culkin e Jeremy Strong — transforma cada reunião de família num pequeno campo de batalha. A trilha de Nicholas Britell, que mistura cordas graves e batidas de hip-hop, dá o tom. Terminou em quatro temporadas, no auge, o que é raro."
+  "Logan Roy é o fundador de um conglomerado de mídia e já está velho demais para continuar no comando, mas não aceita largar o posto. Seus filhos adultos, entre eles Kendall, Shiv e Roman, disputam o direito de sucedê-lo, cada um do seu jeito e quase nunca às claras. O cenário é um mundo de conselhos de administração, jatos particulares e acordos bilionários, onde cada conversa de corredor vale uma guerra. Quem acompanha o noticiário vai reconhecer ecos de dinastias reais da imprensa, como a de Rupert Murdoch, mas a série é ficção e inventa o seu próprio clã.",
+  "O que a torna especial é a mistura de comédia e tragédia. Jesse Armstrong, que escreveu para The Thick of It e cocriou Peep Show, faz diálogos cheios de insultos elaborados e humilhações precisas, tão engraçados que a gente ri e logo se sente mal por ter rido. Os personagens têm tudo, menos o que importa, e a série não pede que gostemos deles, só que não consigamos desviar o olhar. O elenco é afiadíssimo, com Brian Cox, Sarah Snook, Kieran Culkin e Jeremy Strong, e a câmera nervosa, que parece pegar as cenas por acaso, dá a sensação de um documentário sobre gente que não deveria estar sendo filmada.",
+  "Estreou em 2018 na HBO e foi crescendo a cada temporada. Terminou em 2023, na quarta, em plena força, coisa rara numa época em que tanta série se estica demais. Levou o Emmy de melhor série dramática em três das quatro temporadas e ganhou lugar ao lado de Veep e The Thick of It entre as grandes sátiras do poder, mas com um olhar mais dolorido.",
+  "Serve a quem gosta de diálogos afiados, intriga de bastidor e personagens complicados. Não é para quem precisa de alguém por quem torcer: aqui quase todos são cruéis, e a diversão está justamente nisso. Há acontecimentos importantes pelo caminho, e é melhor chegar a eles sem aviso. Comece pelo primeiro episódio e dê tempo à 1ª temporada, que apresenta o clã e só depois mostra a que veio."
  ])
 
 F[5] = dict(
@@ -66,8 +74,10 @@ F[5] = dict(
  parecido="Girls, Catastrophe, I May Destroy You",
  episodio="Episódio 1 da 2ª temporada.",
  texto=[
-  "Fleabag é o apelido de uma londrina de trinta e poucos anos que toca um café temático de porquinhos-da-índia em dificuldades, leva uma vida sexual sem muito critério e finge que está tudo bem. Enquanto isso, olha para a câmera e comenta o que acontece, como se o espectador fosse a única pessoa a quem ela diz a verdade. Phoebe Waller-Bridge adaptou para a TV a peça solo que escreveu e estrelou, e fez da quebra da “quarta parede” o motor da história: o que a personagem esconde de quem a assiste importa mais do que qualquer reviravolta.",
-  "Cada temporada tem seis episódios curtos, quase sem gordura. Rindo de sexo, família e luto, a série vai deixando ver uma tristeza que a protagonista evita encarar. A segunda temporada, com a chegada de um padre vivido por Andrew Scott, é frequentemente citada entre as melhores de qualquer comédia recente."
+  "Fleabag — o apelido da protagonista, que nunca ouvimos chamarem de outro jeito — é uma londrina de trinta e poucos anos que toca um café de porquinhos-da-índia que vai mal, vive de relações passageiras e garante que está tudo ótimo. Quando a vida aperta, ela olha para a câmera e comenta o que acontece, como se o espectador fosse o único a ouvir a verdade. A família é um problema à parte: a irmã controladora, o pai distante, a nova companheira dele.",
+  "Phoebe Waller-Bridge criou a série a partir de uma peça solo que ela mesma escreveu e encenou, e fez da conversa com a câmera o coração da história: o que Fleabag esconde de quem está em volta, e depois de quem a assiste, importa mais do que qualquer trama. Os episódios são curtos, quase sem gordura, e o humor é cheio de sexo, constrangimento e frases cortantes. Aos poucos, por trás das piadas, aparece uma tristeza que a protagonista evita encarar. Há uma revelação nesse caminho que muda o jeito de ver o que veio antes; vale chegar a ela sem saber.",
+  "São só duas temporadas, de seis episódios cada, exibidas em 2016 e 2019. A segunda, com a chegada de um padre vivido por Andrew Scott, é citada com frequência entre as melhores da comédia recente e rendeu à série uma safra de Emmys. Abriu caminho para outras histórias de mulheres imperfeitas no centro e lançou a carreira de roteirista de Waller-Bridge, que depois criou a primeira temporada de Killing Eve. Em menos de seis horas no total, é daquelas séries que se vê de uma vez e se revê com outros olhos.",
+  "Serve a quem gosta de humor ácido e de comédia que também faz chorar. Como tudo cabe em poucas horas, é uma ótima porta de entrada para a TV britânica. Não é para quem se incomoda com sexo e linguagem franca, nem com assuntos pesados como luto. Comece pelo primeiro episódio e vá sem pressa: as duas temporadas se completam, e a segunda perde o efeito sem a primeira."
  ])
 
 F[6] = dict(
@@ -79,8 +89,10 @@ F[6] = dict(
  parecido="A Casa do Dragão, The Last Kingdom, Vikings",
  episodio="“Hardhome” (5ª temporada, ep. 8).",
  texto=[
-  "Baseada na saga literária As Crônicas de Gelo e Fogo, de George R. R. Martin, a série acompanha várias casas nobres de Westeros disputando o Trono de Ferro. Ao mesmo tempo, no extremo norte, uma ameaça antiga volta a se mexer, e do outro lado do mar uma jovem exilada, Daenerys Targaryen, reúne exércitos e dragões para reclamar o reino que foi da família. A inspiração vem de guerras medievais reais, em especial a Guerra das Duas Rosas, na Inglaterra.",
-  "O que a transformou em fenômeno foi a mistura de escala de cinema com a coragem de matar personagens importantes sem aviso, o que fazia de cada episódio um acontecimento. Idiomas inventados para a série, como o dothraki, efeitos especiais caros e um elenco enorme sustentaram as primeiras temporadas, as mais admiradas; as últimas dividiram o público. Seja como for, mudou o que as emissoras achavam possível fazer em televisão."
+  "Em Westeros, um continente inventado que lembra a Europa medieval, várias casas nobres passam a disputar o Trono de Ferro. Ao norte, atrás de uma muralha gigantesca de gelo, uma ameaça antiga volta a se mexer. Do outro lado do mar, uma jovem exilada, Daenerys Targaryen, junta exércitos e dragões para reclamar o reino que foi da família. Baseada nos livros As Crônicas de Gelo e Fogo, de George R. R. Martin, a série se inspira em guerras reais, como a Guerra das Duas Rosas, na Inglaterra.",
+  "O que a transformou em fenômeno foi juntar a escala de um grande filme com a coragem de eliminar personagens importantes sem aviso, o que dava a cada episódio ar de acontecimento. Há várias histórias correndo em paralelo, muitos nomes, política, traições, casamentos que mudam o mapa. Línguas inventadas para a série, como o dothraki, efeitos caros e um elenco enorme, com Peter Dinklage, Lena Headey, Emilia Clarke e Kit Harington, sustentaram as primeiras temporadas, as mais admiradas. Há reviravoltas chocantes pelo caminho, daquelas que muita gente lembra onde estava ao ver; evite resumos.",
+  "Foi ao ar na HBO entre 2011 e 2019 e por anos foi a série mais comentada do mundo. Tem o recorde de Emmys entre as séries dramáticas e mudou o que as emissoras achavam possível fazer, em dinheiro e em ambição. As últimas temporadas, que passaram os livros publicados, dividiram o público, mas deram origem a A Casa do Dragão (2022) e a uma onda de fantasia na TV.",
+  "Serve a quem gosta de intriga política, histórias grandes e universos que pedem tempo. Não é preciso gostar de fantasia: o que importa são as pessoas. Não é para quem se incomoda com violência explícita, sexo e crueldade, que aparecem sem cerimônia. Comece pelo primeiro episódio, que apresenta muita gente e pede paciência; a história engata logo depois e a série cresce até o auge, que muitos fãs veem no meio do caminho."
  ])
 
 F[7] = dict(
@@ -92,8 +104,10 @@ F[7] = dict(
  parecido="The Thick of It, Succession, Um Maluco na TV",
  episodio=None,
  texto=[
-  "Selina Meyer foi senadora, disputou a presidência e acabou vice-presidente dos Estados Unidos, um cargo que rende mais cerimônias do que decisões. Criada pelo britânico Armando Iannucci, a série acompanha a vice e sua equipe de assessores, que passam os dias tentando fazer a chefe parecer competente, simpática e decente — e fracassando de maneiras sempre criativas. O humor vem sobretudo dos xingamentos: o roteiro tem uma musicalidade de palavrão que virou marca registrada.",
-  "Julia Louis-Dreyfus, que já era estrela desde Seinfeld, dá a Selina uma mistura irresistível de vaidade, desespero e ambição. Sem heróis nem moral da história, a série ri da política americana por dentro, e, conforme a realidade foi ficando cada vez mais absurda, a ficção passou a ter dificuldade de competir — o que não a impediu de terminar bem."
+  "Selina Meyer já foi senadora, disputou a presidência e acabou vice-presidente dos Estados Unidos, um cargo com mais cerimônia do que poder real. A série segue a vice e sua equipe de assessores, que passam os dias tentando fazer a chefe parecer competente, simpática e decente, e fracassando de maneiras sempre inventivas. Uma curiosidade: em nenhum momento a série diz a que partido ela pertence, para que a sátira valha para qualquer lado.",
+  "Criada pelo britânico Armando Iannucci, a série tem uma assinatura: o xingamento como forma de arte. Os roteiros têm uma musicalidade de palavrão e de insulto elaborado, ditos em alta velocidade, em escritórios onde ninguém sabe exatamente o que está fazendo. Julia Louis-Dreyfus, estrela desde Seinfeld, dá a Selina uma mistura irresistível de vaidade, desespero e ambição, e o elenco ao redor, de Tony Hale a Anna Chlumsky e Timothy Simons, funciona como um relógio. A câmera na mão dá a impressão de um documentário sem entrevistas, que segue a equipe pelos corredores. Não há heróis nem lição de moral.",
+  "Foi ao ar na HBO entre 2012 e 2019, com Iannucci à frente das quatro primeiras temporadas e David Mandel nas demais. Rendeu a Julia Louis-Dreyfus seis Emmys seguidos de melhor atriz de comédia e é, ao lado de The Thick of It, referência em sátira política na TV. Conforme a política real foi ficando mais absurda, a ficção passou a ter dificuldade de competir, comentário que se ouviu muito na época.",
+  "Serve a quem gosta de humor ácido e rápido, diálogos cheios de ironia e política vista pelos bastidores. Não é preciso saber nada de política americana, embora ajude. Não é para quem se incomoda com palavrão em quantidade, nem para quem procura personagens para admirar: aqui ninguém se salva. Comece pelo primeiro episódio; a 1ª temporada é curta e já mostra o tom, e a série fica ainda mais afiada com o passar dos anos."
  ])
 
 F[8] = dict(
@@ -105,8 +119,10 @@ F[8] = dict(
  parecido="Confusões de Leslie, Arrested Development, Community",
  episodio=None,
  texto=[
-  "O título é o endereço da sede da NBC em Nova York, 30 Rockefeller Plaza. Tina Fey, que foi roteirista-chefe do Saturday Night Live, criou uma comédia ambientada num programa de esquetes fictício e interpreta Liz Lemon, a roteirista-chefe sensata e permanentemente exausta que tenta manter a ordem enquanto todos ao redor são mais malucos do que ela: uma estrela vaidosa e carente (Jane Krakowski), um comediante imprevisível (Tracy Morgan), um contínuo caipira, devoto da emissora (Jack McBrayer) e um executivo implacável (Alec Baldwin).",
-  "O ritmo é frenético: há piada em quase toda fala, gags visuais no fundo das cenas e referências que a série dispara e abandona antes que o espectador as alcance. Funciona também como sátira dos bastidores da própria televisão — e do canal que a exibia."
+  "O título é o endereço da sede da NBC em Nova York, 30 Rockefeller Plaza. Liz Lemon, interpretada por Tina Fey, é a roteirista-chefe de um programa de esquetes de televisão e tenta manter a ordem enquanto todos ao redor são mais malucos do que ela: a estrela vaidosa e carente, o comediante imprevisível, o contínuo devoto da emissora e o executivo da empresa dona do canal, que quer mandar em tudo.",
+  "Fey, que foi roteirista-chefe do Saturday Night Live, escreveu a série a partir do que viu nos bastidores. O ritmo é frenético: quase toda fala é piada, há gags visuais no fundo das cenas e referências que a série dispara e abandona antes de o espectador alcançá-las. O melhor da série é a combinação de um elenco muito entrosado — Alec Baldwin como o executivo Jack Donaghy, Tracy Morgan, Jane Krakowski e Jack McBrayer — com uma heroína sem glamour, que come mal, trabalha demais e erra nos encontros. É uma sátira da televisão feita por quem a conhece, incluindo o canal que a exibia.",
+  "Foi ao ar na NBC de 2006 a 2013 e levou o Emmy de melhor série de comédia três anos seguidos. Teve audiência modesta, mas foi adorada pela crítica e ganhou um culto crescente depois. Liz Lemon virou referência para uma geração de comédias com mulheres imperfeitas no centro, e Fey voltaria ao humor acelerado em Unbreakable Kimmy Schmidt. Quem gosta dela costuma lembrar também dos coadjuvantes impagáveis e das participações especiais, que só aumentaram com os anos.",
+  "Serve a quem gosta de humor rápido, absurdo e cheio de referências, e a quem se diverte com os bastidores da TV. Não é para quem prefere comédia com emoção constante: a série é mais ironia do que sentimento. Comece pelo primeiro episódio; a 1ª temporada ainda busca o tom, e a série pega o ritmo de metralhadora nas seguintes. Vale ver com atenção, porque as melhores piadas passam rápido."
  ])
 
 F[9] = dict(
@@ -118,8 +134,10 @@ F[9] = dict(
  parecido="Seinfeld, Louie, The Office (Reino Unido)",
  episodio=None,
  texto=[
-  "Larry David, cocriador de Seinfeld, interpreta uma versão exagerada de si mesmo: milionário rabugento de Los Angeles, incapaz de deixar passar um deslize de etiqueta. Cada episódio parte de um pequeno incômodo — um convite para jantar, uma ligação mal atendida, uma fila — e vai se complicando numa cadeia de mal-entendidos que costuma se fechar de forma engenhosa no último minuto.",
-  "Os diálogos são em grande parte improvisados a partir de um esqueleto de cena, o que dá aos atores um ritmo de conversa real, e não há trilha de risadas. O humor depende de você aceitar a lógica do protagonista, que está sempre certo na regra e errado na hora, e por isso entrega o prazer de dizer em voz alta o que ninguém diz. Foi ao ar, com pausas, por mais de duas décadas."
+  "Larry David, cocriador de Seinfeld, interpreta uma versão exagerada de si mesmo: um milionário rabugento de Los Angeles que não consegue deixar passar nenhum deslize de etiqueta. Cada episódio parte de um pequeno incômodo — um convite para jantar, uma ligação mal atendida, uma fila — e vai se complicando numa cadeia de mal-entendidos que costuma se fechar de forma engenhosa nos minutos finais, quando linhas soltas se encontram.",
+  "A regra de ouro da série é que Larry está sempre certo na regra e errado na hora. Ele diz em voz alta o que todo mundo pensa e ninguém ousa falar, e o prazer é ver as consequências. Os diálogos são em grande parte improvisados a partir de um esqueleto de cada cena, o que dá aos atores o ritmo de uma conversa de verdade, e não há trilha de risadas. A turma em volta é parte do encanto: Jeff Garlin como o empresário, Cheryl Hines como a esposa, Susie Essman como a boca-suja Susie e, a partir da 6ª temporada, J. B. Smoove como Leon.",
+  "Nasceu de um especial de 1999 e estreou como série em 2000, na HBO, sendo exibida com longas pausas até 2024, num total de 12 temporadas. A série ficou parada por anos e sempre voltou, o que ajudou a transformá-la numa velha conhecida do público. Firmou um modelo de comédia em que o protagonista não precisa ser simpático, e sua influência é visível em muita comédia de humor desconfortável. A abertura, com a música “Frolic”, é das mais reconhecíveis da TV.",
+  "Serve a quem gosta de comédia de situação, de humor desconfortável e de ver o mundo pelo olhar de um rabugento. Não é para quem se incomoda com personagens antipáticos e constrangimento sem trégua. Cada episódio funciona quase sozinho, mas as temporadas têm arcos, e a 7ª, em que Larry tenta reunir o elenco de Seinfeld, é a que muita gente cita como ponto alto. Comece pelo começo: as primeiras temporadas já mostram a fórmula."
  ])
 
 F[11] = dict(
@@ -131,8 +149,9 @@ F[11] = dict(
  parecido="The Office (Reino Unido), Confusões de Leslie, Família Moderna",
  episodio="“Dinner Party” (4ª temporada, ep. 13).",
  texto=[
-  "A versão americana nasceu como adaptação da série britânica de Ricky Gervais, mas demorou um pouco a achar a própria voz. Nas primeiras temporadas, o chefe Michael Scott (Steve Carell) era uma cópia mais cruel de David Brent; a partir da segunda, ganhou o coração que o original nunca teve. O resultado é uma comédia de escritório em que o constrangimento convive com carinho: Michael é insuportável, mas quer desesperadamente ter amigos, e a equipe da filial de Scranton da Dunder Mifflin acaba, a contragosto, gostando dele.",
-  "Filmada como se uma equipe de documentário acompanhasse o expediente, a série vive de olhares para a câmera, de pequenos rituais de escritório e de personagens que vão ficando mais profundos com o tempo, como o vendedor Jim, a recepcionista Pam e o bajulador Dwight. É uma das comédias mais revistas da televisão americana."
+  "Scranton, na Pensilvânia: a filial de uma distribuidora de papel, a Dunder Mifflin, é dirigida por Michael Scott (Steve Carell), um chefe que quer ser amado por todos, se acha engraçadíssimo e vive passando vergonha. Em volta dele, uma equipe que só quer ir para casa: o vendedor brincalhão Jim, a recepcionista Pam, o bajulador Dwight. Tudo é filmado como se uma equipe de documentário acompanhasse o expediente, e os personagens falam direto com a câmera.",
+  "A versão americana adapta a série britânica de Ricky Gervais (também nesta lista), mas demorou a achar a própria voz. Nas primeiras temporadas, Michael era uma cópia mais cruel do original; a partir da segunda, ganhou um coração, e a comédia de constrangimento passou a conviver com carinho. É isso que a diferencia: sob o vexame, há afeto de verdade pela turma. Os personagens ganham profundidade com o tempo, e o romance de Jim e Pam, contado em olhares para a câmera, é dos mais queridos da TV. Os coadjuvantes, como Kevin, Stanley e Phyllis, ganham seus momentos, e a graça muitas vezes está nos pequenos rituais do escritório: a festa de aniversário, a reunião inútil, a brincadeira que passa do ponto. Funciona tanto em maratona quanto em episódios soltos.",
+  "Serve a quem gosta de comédia de situação e de séries para rever muitas vezes. Não é para quem não suporta passar vergonha alheia: algumas cenas dão vontade de desviar o olhar. A 1ª temporada, curta, é a que mais lembra o original; se ela não pegar, tente a 2ª, em que o tom muda."
  ])
 
 F[12] = dict(
@@ -144,8 +163,9 @@ F[12] = dict(
  parecido="Um Maluco na TV, Community, It’s Always Sunny in Philadelphia",
  episodio=None,
  texto=[
-  "Michael Bluth (Jason Bateman) é o único adulto da família: quando o pai, dono de uma construtora, é preso por fraude, ele precisa administrar o que sobrou — a empresa, a mansão que está sendo perdida, uma mãe manipuladora, uma irmã mimada, um irmão mágico e um filho adolescente. Narrada por Ron Howard e filmada como um documentário, a série de Mitchell Hurwitz é construída em camadas: frases viram piada três episódios depois, e um detalhe no fundo da tela explica uma cena anterior. Quem vê duas vezes ri mais.",
-  "Foi cancelada pela Fox depois de três temporadas, ganhou fama de “série de culto” e foi ressuscitada pela Netflix em 2013 e 2018, e na quarta temporada a estrutura ficou ainda mais intrincada: cada episódio mostra o mesmo período pelo ponto de vista de um personagem diferente."
+  "Michael Bluth (Jason Bateman) é o único adulto da família Bluth: quando o pai, dono de uma construtora, é preso por fraude, ele assume o que sobrou — uma empresa em crise, uma mansão prestes a ser perdida, uma mãe manipuladora, uma irmã mimada, um irmão que se acha mágico e um filho adolescente. A série finge ser um documentário, narrado pela voz de Ron Howard.",
+  "O que a destaca é a construção em camadas. O criador, Mitchell Hurwitz, planta frases e detalhes que viram piada três episódios depois, e um objeto no fundo do quadro explica uma cena anterior. Há piadas recorrentes, como a barraca de bananas congeladas da família, que premiam quem assiste com atenção; quem vê duas vezes ri mais. O elenco, com Bateman, Portia de Rossi, Will Arnett, Michael Cera, Tony Hale e Jessica Walter, tem um entrosamento raro. Há também uma crítica leve às famílias ricas e aos seus hábitos, mas o riso vem mesmo da insistência de cada personagem em estar sempre errado e nunca perceber. O ritmo é acelerado, com muitas piadas por minuto, e o narrador comenta tudo com a ironia de quem sabe mais do que os personagens.",
+  "Foi cancelada pela Fox depois de três temporadas, virou “série de culto” e foi ressuscitada pela Netflix, em 2013 e de novo em 2018. Serve a quem gosta de humor rápido e cheio de detalhes escondidos. Não é para quem vê TV distraído, porque as melhores piadas dependem de memória. Comece pelo primeiro episódio e vá na ordem; as temporadas da Netflix têm estrutura mais enrolada, e a 4ª conta o mesmo período por vários pontos de vista."
  ])
 
 F[13] = dict(
@@ -157,8 +177,9 @@ F[13] = dict(
  parecido="Sex and the City, Fleabag, Broad City – A Cidade das Minas",
  episodio="“One Man’s Trash” (2ª temporada, ep. 5).",
  texto=[
-  "Hannah Horvath (Lena Dunham) é uma aspirante a escritora de 24 anos que acaba de ser cortada da mesada pelos pais. Mora no Brooklyn, tem um emprego mal pago e um relacionamento confuso com Adam (Adam Driver), e divide o tempo com as amigas Marnie, Jessa e Shoshanna. Dunham, que criou a série, escreveu e dirigiu vários episódios, usa o desconforto — físico, financeiro, amoroso — como matéria-prima da comédia e não poupa as personagens: elas são egoístas, imaturas e, às vezes, difíceis de querer bem.",
-  "Foi aplaudida e criticada na mesma medida: de um lado, a ousadia de mostrar corpos e sexo sem glamour; de outro, a pouca diversidade do elenco e do ambiente retratado. Os dois lados da discussão fazem parte do que a série significa. Vista hoje, é um retrato muito preciso de uma geração que chegou à vida adulta no meio da crise econômica."
+  "Hannah Horvath (Lena Dunham) é uma aspirante a escritora de 24 anos que acaba de ser cortada da mesada pelos pais. Mora no Brooklyn, tem um trabalho mal pago e uma relação confusa com Adam (Adam Driver), e divide o tempo com as amigas Marnie, Jessa e Shoshanna. A série tem produção de Judd Apatow.",
+  "Dunham, que criou a série e escreveu e dirigiu vários episódios, usa o desconforto — físico, financeiro, amoroso — como matéria-prima da comédia e não poupa as personagens: são egoístas, imaturas e às vezes difíceis de querer bem. Foi aplaudida e criticada na mesma medida: de um lado, a ousadia de mostrar corpos e sexo sem glamour; de outro, a pouca diversidade do elenco e do ambiente retratado. Vista hoje, é um retrato preciso de uma geração que chegou à vida adulta no meio da crise econômica. A trilha, que mistura músicas independentes da época, ajuda a situar o espírito do tempo, e há episódios isolados, quase teatrais, que mostram a série no seu melhor. Mesmo quem se irrita com Hannah costuma reconhecer a coragem de pôr na TV uma protagonista tão cheia de defeitos.",
+  "Estreou na HBO em 2012 e durou seis temporadas. Serve a quem gosta de comédia de desconforto e de retratos sem verniz, e a quem acompanhou a discussão da época. Não é para quem procura personagens simpáticas ou o brilho de Sex and the City: aqui ninguém é glamouroso. Comece pelo primeiro episódio e dê tempo às personagens, que só vão se revelando adiante."
  ])
 
 F[14] = dict(
@@ -170,8 +191,9 @@ F[14] = dict(
  parecido="Parenthood, This Is Us",
  episodio=None,
  texto=[
-  "Dillon, no interior do Texas, vive de sexta-feira à noite: o time de futebol americano do colégio é motivo de orgulho, de apostas e de pressão sobre garotos de dezessete anos. Quando o técnico Eric Taylor (Kyle Chandler) assume a equipe, passa a carregar as expectativas de toda a comunidade, ao lado da mulher, Tami (Connie Britton), orientadora do colégio. A série foi inspirada no livro-reportagem de H. G. Bissinger e no filme que ele gerou.",
-  "O esporte é só o ponto de partida. A câmera na mão, os diálogos meio improvisados e os atores pouco conhecidos criam uma sensação de realidade rara na TV, e os temas reais — dinheiro, classe social, racismo, o peso de crescer numa cidade pequena — dão a ela uma emoção honesta, sem apelação. Nunca foi um sucesso de audiência, mas conquistou uma legião de fãs fiéis e uma das melhores reputações entre as séries dramáticas da década."
+  "Dillon, no interior do Texas, vive de sexta-feira à noite: o time de futebol americano do colégio é motivo de orgulho, de aposta e de pressão sobre garotos de dezessete anos. Quando o técnico Eric Taylor (Kyle Chandler) assume a equipe, passa a carregar as expectativas de toda a cidade, ao lado da esposa, Tami (Connie Britton), orientadora do colégio. A série é inspirada no livro-reportagem de Buzz Bissinger e no filme que ele gerou.",
+  "O esporte é só o ponto de partida. A câmera na mão, os diálogos meio improvisados e os atores pouco conhecidos criam uma sensação de realidade rara na TV, e os temas reais — dinheiro, classe, racismo, o peso de crescer em cidade pequena — dão a ela uma emoção honesta, sem apelação. O casal Taylor é um dos retratos de casamento mais admirados da televisão, e o lema do time, “Clear eyes, full hearts, can’t lose”, virou frase famosa. A direção prefere o improviso: os atores têm liberdade para atrapalhar as falas, e as cenas de futebol são filmadas de dentro do jogo, como se a câmera fosse mais um jogador. A série gosta de gente comum, como os pais, os professores e os jovens que sonham em sair da cidade.",
+  "Nunca foi sucesso de audiência, mas conquistou fãs fiéis e uma das melhores reputações da década. Serve a quem gosta de dramas de personagens e de cidades pequenas; não é preciso entender de futebol americano. Não é para quem quer ação ou tramas mirabolantes. Comece pelo primeiro episódio: muitos fãs consideram a 1ª temporada a mais forte."
  ])
 
 F[15] = dict(
@@ -183,8 +205,9 @@ F[15] = dict(
  parecido="Família Soprano, Breaking Bad, Dexter",
  episodio=None,
  texto=[
-  "Criada por Alan Ball, roteirista de Beleza Americana, a série acompanha os Fisher, que tocam uma funerária em Los Angeles. Nate (Peter Krause) volta para casa para o enterro do pai e acaba ficando; David (Michael C. Hall), o irmão fechado, esconde que é gay; a mãe, Ruth, tenta aprender a viver de novo; e a caçula, Claire, só quer fugir. Todo episódio começa com a morte de alguém — um cliente da funerária — e usa o velório para fazer os vivos olharem para as próprias escolhas.",
-  "A premissa pode soar macabra, mas o tom é muito humano, com humor seco e várias cenas de desabar. A série consolidou a HBO como lugar de histórias adultas e complexas e abriu caminho para muitos dramas de personagens que vieram depois. O último episódio é um dos mais comentados da história da televisão."
+  "Criada por Alan Ball, roteirista de Beleza Americana, a série acompanha a família Fisher, que toca uma funerária em Los Angeles. Nate (Peter Krause) volta para casa para o enterro do pai e acaba ficando; David (Michael C. Hall), o irmão reservado, esconde a própria vida íntima; a mãe, Ruth, tenta aprender a viver de novo; a caçula, Claire, só quer fugir. Todo episódio começa com a morte de alguém e usa o velório para fazer os vivos olharem para as próprias escolhas.",
+  "A premissa pode soar macabra, mas o tom é muito humano, com humor seco e várias cenas de cortar o coração. É uma série sobre perda, família e as coisas que ninguém diz à mesa, que encara de frente um assunto que a TV costuma evitar. Foi das séries que firmaram a HBO como casa de histórias adultas e complexas, ao lado de Família Soprano, e Michael C. Hall, que depois viveria Dexter, está ótimo. O último episódio é um dos mais comentados da televisão. Os personagens secundários ganham histórias que se desenvolvem ao longo das cinco temporadas, sem pressa de resolver tudo. A série também brinca com a imaginação: os mortos às vezes aparecem para conversar com os vivos, num toque de humor e melancolia que se tornou sua marca.",
+  "Serve a quem aprecia dramas sensíveis e quer pensar na morte sem pânico. Não é para quem está de luto recente e prefere evitar o assunto, nem para quem quer ritmo acelerado. Comece pelo primeiro episódio e evite spoilers sobre o final: ele vale ser visto sem saber."
  ])
 
 F[16] = dict(
@@ -196,8 +219,9 @@ F[16] = dict(
  parecido="The Office (EUA), Extras, The Thick of It",
  episodio="O especial de Natal (2003).",
  texto=[
-  "Em Slough, cidade-dormitório inglesa, a empresa de papel Wernham Hogg é dirigida por David Brent (Ricky Gervais), que se acha um chefe-amigo, comediante nato e filósofo — e nunca percebe como os outros o veem. Uma equipe de documentário acompanha o dia a dia do escritório. Em apenas doze episódios e um especial de Natal, a série de Gervais e Stephen Merchant criou uma linguagem: câmeras que se demoram nos olhares, silêncios que qualquer sitcom cortaria, constrangimento levado ao limite.",
-  "Por baixo da comédia, há uma história de amor discreta e comovente — entre o vendedor Tim (Martin Freeman) e a recepcionista Dawn (Lucy Davis) — e uma crônica sobre empregos que ninguém escolheu. O formato foi refeito em dezenas de países, mas o original segue como referência."
+  "Em Slough, cidade-dormitório inglesa, a empresa de papel Wernham Hogg é dirigida por David Brent (Ricky Gervais), que se acha chefe-amigo, comediante nato e filósofo, e nunca percebe como os outros o veem. Uma equipe de documentário acompanha o dia a dia do escritório. Em apenas doze episódios e um especial de Natal, a série de Gervais e Stephen Merchant criou uma linguagem de comédia: câmeras que se demoram nos olhares, silêncios que qualquer sitcom cortaria, constrangimento levado ao limite.",
+  "Por baixo da comédia há uma história de amor discreta e comovente, entre o vendedor Tim (Martin Freeman) e a recepcionista Dawn (Lucy Davis), e uma crônica sobre empregos que ninguém escolheu. Brent é insuportável e, de repente, dá pena: essa mistura é a assinatura da série. O formato foi refeito em dezenas de países, inclusive nos Estados Unidos, mas o original, mais seco e mais curto, segue como referência. Não há risadas gravadas: a graça nasce do silêncio, do olhar e do instante em que alguém percebe que falou demais. Por ser curta, a série não teve tempo de repetir fórmulas, e é essa concisão que a mantém afiada. Mesmo quem conhece a versão americana se surpreende com o tom mais seco e mais triste do original.",
+  "Estreou em 2001, na BBC Two. Serve a quem gosta de humor britânico seco e de comédia de constrangimento. Não é para quem não aguenta cenas em que dá vontade de sair da sala. Como é pouco mais de uma dúzia de episódios, dá para ver de uma vez: comece pelo primeiro e termine com o especial de Natal."
  ])
 
 F[17] = dict(
@@ -209,8 +233,9 @@ F[17] = dict(
  parecido="Homeland: Segurança Nacional, Mad Men: Inventando Verdades, Slow Horses",
  episodio=None,
  texto=[
-  "No início dos anos 1980, os Jennings parecem a família americana ideal. Na verdade, Philip e Elizabeth são agentes soviéticos infiltrados nos Estados Unidos há anos e, enquanto a Guerra Fria esquenta sob o governo Reagan, cumprem missões em Washington. Criada por Joe Weisberg, ex-agente da CIA, a série interessa-se menos por tiroteios do que pelo custo da vida dupla: o casamento arranjado pela KGB que se torna amor de verdade, os filhos que podem descobrir a verdade, o vizinho que trabalha no FBI.",
-  "A tensão nasce do cotidiano e do dilema moral de torcer por quem faz coisas condenáveis. A reconstituição da época — figurino, trilha, as perucas memoráveis — é caprichada, e o elenco de apoio é ótimo, em especial Margo Martindale. A série terminou de forma coerente e cuidadosa, o que não é comum."
+  "No início dos anos 1980, os Jennings parecem a família americana ideal: casa no subúrbio de Washington, dois filhos, uma agência de viagens. Na verdade, Philip (Matthew Rhys) e Elizabeth (Keri Russell) são agentes soviéticos infiltrados nos Estados Unidos há anos e, enquanto a Guerra Fria esquenta sob o governo Reagan, cumprem missões secretas. O vizinho do lado trabalha no FBI.",
+  "Criada por Joe Weisberg, ex-agente da CIA, a série interessa-se menos por tiroteios do que pelo custo da vida dupla: um casamento arranjado pela KGB que se torna amor de verdade, os filhos que podem descobrir a verdade, as mentiras que viram hábito. A tensão nasce do cotidiano e do dilema de torcer por quem faz coisas condenáveis. A reconstituição da época — figurino, trilha, as perucas memoráveis — é caprichada, e o elenco de apoio é ótimo, em especial Margo Martindale. A série trata os filhos, Paige e Henry, e os vizinhos com o mesmo cuidado que os agentes, e as cenas de disfarce, às vezes quase cômicas, convivem com momentos de dor genuína. Os episódios mais fortes mostram o preço humano de cada missão, e a trilha de época, cheia de rock dos anos 1980, ajuda a criar o clima.",
+  "Passou no FX de 2013 a 2018 e terminou de forma coerente e cuidadosa, o que não é comum. Serve a quem gosta de espionagem de personagens, mais psicológica do que de ação. Não é para quem quer ritmo de filme de ação: a série é de queima lenta. Comece pelo primeiro episódio e dê tempo à 1ª temporada, que monta o tabuleiro."
  ])
 
 F[18] = dict(
@@ -222,8 +247,9 @@ F[18] = dict(
  parecido="Fleabag, Normal People, Girls",
  episodio=None,
  texto=[
-  "Arabella é uma jovem escritora londrina, de sucesso nas redes sociais, que sai com amigos e acorda sem lembrar do que aconteceu. Aos poucos, vai reconstituindo a noite e reconhecendo que foi vítima de violência sexual. Michaela Coel, que criou, escreveu e protagoniza a série, inspirou-se em experiência própria, e isso se sente na precisão com que o programa trata memória, culpa, consentimento e justiça.",
-  "A série vai além do trauma: acompanha amizades, carreira, desejo, o mundo digital e as questões de raça, e é engraçada onde menos se espera. Os episódios mudam de tom com frequência, e o resultado é um retrato complexo e muito humano de alguém que se recusa a ser definido pelo que lhe fizeram. Atenção: trata de violência sexual de forma direta."
+  "Arabella é uma jovem escritora londrina, de sucesso nas redes sociais, que sai com os amigos e acorda sem lembrar o que aconteceu na noite anterior. Aos poucos, reconstitui a noite e reconhece que foi vítima de violência sexual. Michaela Coel, que criou, escreveu e protagoniza a série, inspirou-se em experiência própria, e isso se sente na precisão com que ela trata memória, culpa, consentimento e justiça.",
+  "A série vai além do trauma: acompanha amizades, carreira, desejo, o mundo digital e as questões de raça, e é engraçada onde menos se espera. Os episódios mudam de tom com frequência — comédia, drama, quase suspense — e dão a sensação de que a vida real é assim, bagunçada e sem lição fácil. O resultado é um retrato complexo e muito humano de alguém que se recusa a ser definido pelo que lhe fizeram. Há humor, amizade e música; os dois amigos de Arabella, Terry e Kwame, têm histórias próprias, e Londres aparece como cidade real, não como cartão-postal. A série evita o sensacionalismo: o interesse está sempre no que vem depois, não no choque.",
+  "Foi exibida em 2020, em coprodução da BBC com a HBO. Serve a quem gosta de dramas autorais e corajosos. Não é para quem quer evitar o tema: a violência sexual é tratada de forma direta, e há cenas difíceis; se você está num momento sensível, veja com cuidado. Comece pelo primeiro episódio; são doze, de cerca de meia hora."
  ])
 
 F[19] = dict(
@@ -235,8 +261,9 @@ F[19] = dict(
  parecido="Irmãos de Guerra, Dopesick",
  episodio=None,
  texto=[
-  "Em abril de 1986, durante um teste de segurança, um dos reatores da usina de Chernobyl, na Ucrânia — então parte da União Soviética —, explode. Escrita por Craig Mazin, a minissérie reconstitui as horas e os meses seguintes: os bombeiros que entram no prédio sem saber o que os espera, o físico Valery Legasov (Jared Harris), que tenta convencer o Partido de que o desastre é maior do que se admite, e os mineiros e soldados chamados para conter o estrago.",
-  "O foco está menos na catástrofe do que na mentira: como um sistema que não admite falhar tornou o acidente ainda pior. São cinco episódios sem heróis de cartaz, com reconstituição de época de arrepiar e a trilha sonora de Hildur Guðnadóttir. A série toma liberdades dramáticas — alguns personagens, como a cientista Ulana Khomyuk, são compostos a partir de várias pessoas reais."
+  "Em abril de 1986, durante um teste de segurança, um dos reatores da usina de Chernobyl, na Ucrânia, então parte da União Soviética, explode. Escrita por Craig Mazin, a minissérie reconstitui as horas e os meses seguintes: os bombeiros que entram na usina sem saber o que os espera, o físico Valery Legasov (Jared Harris), que tenta convencer o Partido de que o desastre é maior do que se admite, e os mineiros e soldados chamados para conter o estrago.",
+  "O foco está menos na catástrofe do que na mentira: como um sistema que não admite falhar tornou o acidente ainda pior. São cinco episódios sem heróis de cartaz, com reconstituição de época de arrepiar e a trilha sombria de Hildur Guðnadóttir. A série toma liberdades dramáticas — alguns personagens, como a cientista Ulana Khomyuk, são compostos a partir de várias pessoas reais —, mas o medo que ela passa é o que fica na memória. A tensão vem do que os personagens sabem e do que lhes é proibido dizer, e cada episódio termina com um novo problema, sem esquecer o custo humano: bombeiros, mineiros, médicos e famílias pagam pelas decisões tomadas em escritórios. É curta, tensa e difícil de largar, embora pesada.",
+  "Foi das minisséries mais premiadas de 2019. Serve a quem gosta de drama histórico e de suspense feito de fatos. Não é para quem não suporta cenas de sofrimento físico: os efeitos da radiação são mostrados sem poupar o espectador. Comece pelo primeiro episódio; em cinco capítulos você tem a história completa."
  ])
 
 F[20] = dict(
@@ -248,8 +275,9 @@ F[20] = dict(
  parecido="Downton Abbey, Peaky Blinders",
  episodio=None,
  texto=[
-  "Criada por Peter Morgan, que já havia escrito o filme A Rainha, a série cobre o reinado de Elizabeth II, do casamento com Philip, em 1947, até meados dos anos 2000, em ciclos de duas temporadas, cada um com um elenco novo que envelhece junto com as personagens. O drama alterna os assuntos de Estado — crises políticas, a convivência com sucessivos primeiros-ministros — e as questões de família: o casamento de Margaret, a rotina de Philip, o casamento de Charles e Diana.",
-  "É ficção: muitas conversas íntimas são imaginadas, e a série foi criticada justamente por isso. Mas a produção — locações, figurino, atuações — é de primeiríssima linha, e cada temporada ganha tom próprio, às vezes mais político, às vezes mais íntimo. Vale ver como entretenimento de época, não como livro de história."
+  "Criada por Peter Morgan, que já havia escrito o filme A Rainha, a série cobre o reinado de Elizabeth II, do casamento com Philip, em 1947, até meados dos anos 2000, em ciclos de duas temporadas, cada um com elenco novo que envelhece junto com as personagens. O drama alterna os assuntos de Estado — crises políticas, a convivência com sucessivos primeiros-ministros — e as questões de família: o casamento da princesa Margaret, a rotina de Philip, o casamento de Charles e Diana.",
+  "É ficção: muitas conversas íntimas são imaginadas, e a série foi criticada justamente por isso. Mas a produção — locações, figurino, atuações — é de primeiríssima linha, e cada temporada ganha tom próprio, às vezes mais político, às vezes mais íntimo. Claire Foy, Olivia Colman e Imelda Staunton se revezam como a rainha, e a troca de elenco é parte do charme: vemos as mesmas pessoas envelhecerem. As temporadas funcionam como pequenos filmes, cada uma com um conflito próprio: uma crise de governo, um escândalo, uma viagem. Os atores de apoio, como Vanessa Kirby, Helena Bonham Carter e Gillian Anderson, também têm momentos marcantes.",
+  "Foi ao ar na Netflix de 2016 a 2023 e levou o Emmy e o Globo de Ouro de melhor série dramática. Serve a quem gosta de drama de época, de intrigas de família e de história sem pressa. Não é para quem procura rigor histórico: veja como entretenimento, não como livro de história. Comece pelo primeiro episódio."
  ])
 
 F[21] = dict(
@@ -261,8 +289,9 @@ F[21] = dict(
  parecido="Succession, Big Little Lies, Mare of Easttown",
  episodio=None,
  texto=[
-  "Cada temporada se passa num resort de luxo da rede fictícia White Lotus, num lugar diferente — Havaí, Sicília, Tailândia —, com um novo grupo de hóspedes e funcionários e uma morte anunciada logo de início, sem que se saiba quem é a vítima. Criada por Mike White, é uma sátira de ricos que não escutam ninguém e de empregados que precisam sorrir o tempo todo, com diálogos que provocam riso pelo desconforto.",
-  "O suspense é o pretexto; o assunto de verdade é dinheiro, desigualdade e as formas pelas quais gente privilegiada consegue estragar o dia dos outros sem notar. A personagem de Jennifer Coolidge, a trágica e hilária Tanya, virou a figura mais querida da série. Cada temporada pode ser vista separadamente."
+  "Cada temporada se passa num resort de luxo da rede fictícia White Lotus, num lugar diferente — Havaí, Sicília, Tailândia —, com um novo grupo de hóspedes e funcionários e uma morte anunciada logo de início, sem que se saiba quem é a vítima. Criada por Mike White, é uma sátira de ricos que não escutam ninguém e de empregados que precisam sorrir o tempo todo.",
+  "O suspense é o pretexto; o assunto de verdade é dinheiro, desigualdade e as formas pelas quais gente privilegiada consegue estragar o dia dos outros sem notar. Os diálogos provocam riso pelo desconforto, e a graça está em descobrir, aos poucos, quem morreu e por quê. A personagem de Jennifer Coolidge, a trágica e hilária Tanya, virou a figura mais querida da série, e os cenários dão à viagem um jeito de pesadelo de cartão-postal. A trilha de Cristobal Tapia de Veer, com tambores e vozes, dá à série um clima de ameaça mesmo quando tudo parece ensolarado. O elenco muda a cada temporada, com poucos personagens que retornam, e isso faz de cada viagem uma história nova.",
+  "Estreou em 2021 na HBO e levou vários Emmys em 2022, incluindo o de melhor minissérie. Serve a quem gosta de sátira social, mistério e comédia desconfortável. Não é para quem procura personagens por quem torcer. Cada temporada pode ser vista separadamente, então dá para começar pela primeira, a mais enxuta, e ver se pega."
  ])
 
 F[22] = dict(
@@ -274,8 +303,9 @@ F[22] = dict(
  parecido="The Leftovers, Fringe, Dark",
  episodio=None,
  texto=[
-  "Um voo de Sydney para Los Angeles cai numa ilha do Pacífico. Alguns passageiros morrem, outros resistem, e logo descobrem que o lugar guarda segredos: uma criatura de fumaça, sinais de rádio de décadas atrás, uma escotilha misteriosa, uma sequência de números que reaparece e grupos de habitantes hostis. Cada episódio mistura o presente na ilha com cenas do passado dos personagens (e, mais tarde, do futuro), e as histórias se cruzam de maneiras que só fazem sentido depois.",
-  "Criada por J. J. Abrams, Damon Lindelof e Jeffrey Lieber, foi um fenômeno mundial e criou o hábito de discutir teorias a cada semana, antes das redes sociais. O desfecho dividiu os fãs, mas a série mudou o jeito de contar histórias longas na TV e abriu caminho para muitas outras."
+  "Um voo de Sydney para Los Angeles cai numa ilha do Pacífico. Alguns passageiros morrem, outros resistem, e logo descobrem que o lugar guarda segredos: uma criatura de fumaça, sinais de rádio de décadas atrás, uma escotilha misteriosa, uma sequência de números que reaparece e grupos de habitantes hostis.",
+  "Cada episódio mistura o presente na ilha com cenas do passado dos personagens (e, mais tarde, do futuro), e as histórias se cruzam de maneiras que só fazem sentido depois. Criada por J. J. Abrams, Damon Lindelof e Jeffrey Lieber, foi um fenômeno mundial e criou o hábito de discutir teorias a cada semana, numa época em que as redes sociais ainda engatinhavam. O elenco coral, com Matthew Fox, Evangeline Lilly, Josh Holloway, Terry O’Quinn e Jorge Garcia, e as reviravoltas deram a ela um poder de viciar raro. A série foi precursora das discussões em tempo real e das teorias de fãs, e boa parte da televisão de mistério que veio depois deve algo a ela. A ilha, filmada no Havaí, é quase um personagem, e o piloto é um dos mais caros e mais comentados da época.",
+  "Foi ao ar na ABC de 2004 a 2010 e levou o Emmy de melhor série dramática em 2005. O desfecho dividiu os fãs; vá sem esperar respostas para tudo. Serve a quem gosta de mistério e de teorias. Não é para quem odeia perguntas sem resposta. Comece pelo piloto, que é cinematográfico, e evite spoilers: a série foi pensada para ser descoberta."
  ])
 
 F[23] = dict(
@@ -287,8 +317,9 @@ F[23] = dict(
  parecido="Curb Your Enthusiasm, Hacks, Um Maluco na TV",
  episodio=None,
  texto=[
-  "Valerie Cherish foi estrela de uma sitcom nos anos 1990 e agora aceita, quase de joelhos, um papel de coadjuvante numa comédia nova. Uma equipe de reality show registra seu retorno à TV, e, quando a câmera está ligada, ela insiste em sorrir, mesmo nos momentos mais humilhantes. Lisa Kudrow, a Phoebe de Friends, criou a série com Michael Patrick King (Sex and the City) e deu à personagem uma vaidade comovente e um talento desastroso para o constrangimento.",
-  "Estreou em 2005, foi cancelada após uma temporada e só foi valorizada anos depois, quando a cultura do reality show e da fama instantânea passou a funcionar exatamente como ela previa. Voltou em 2014 e, em 2026, para uma terceira e última temporada. É uma comédia de constrangimento com um coração triste, sobre fama, envelhecimento e a vontade de ser vista."
+  "Valerie Cherish foi estrela de uma sitcom nos anos 1990 e agora aceita, quase de joelhos, um papel de coadjuvante numa comédia nova. Uma equipe de reality show registra seu retorno à TV e, quando a câmera está ligada, ela insiste em sorrir, mesmo nos momentos mais humilhantes. Lisa Kudrow, a Phoebe de Friends, criou a série com Michael Patrick King, de Sex and the City, e deu à personagem uma vaidade comovente e um talento desastroso para o constrangimento.",
+  "Estreou em 2005, foi cancelada depois de uma temporada e só foi valorizada anos depois, quando a cultura do reality show e da fama instantânea passou a funcionar exatamente como ela previa. Voltou em 2014, para uma segunda temporada. É uma comédia de constrangimento com um coração triste, sobre fama, envelhecimento e a vontade de ser vista. Para quem conhece o formato do reality, há um jogo de espelhos: Valerie escolhe o que mostrar à câmera, mas a edição mostra o que ela queria esconder. A atuação de Kudrow é considerada por muitos o ponto alto de sua carreira.",
+  "Serve a quem gosta de humor de constrangimento e de metalinguagem sobre a TV. Não é para quem não suporta passar vergonha alheia: a série leva isso muito a sério. Se Curb Your Enthusiasm e The Office fazem você rir e se encolher, esta vai no mesmo lugar. Comece pelo primeiro episódio e dê tempo, porque a série fica mais rica quando se conhece a personagem."
  ])
 
 F[24] = dict(
@@ -300,8 +331,9 @@ F[24] = dict(
  parecido="A Escuta, Justified, Peaky Blinders",
  episodio=None,
  texto=[
-  "Deadwood, no território de Dakota, em 1876, é um acampamento de mineradores que existe fora da lei americana e cresce a cada semana. O criador, David Milch, mistura figuras reais — o pistoleiro Wild Bill Hickok, Calamity Jane — com personagens inventados. O eixo da história é a relação entre o xerife Seth Bullock (Timothy Olyphant), que chegou para ganhar dinheiro e acabou virando homem da lei, e Al Swearengen (Ian McShane), dono do saloon The Gem, que quer manter o controle da cidade.",
-  "O que mais chama atenção é a linguagem: diálogos longos, floridos e carregados de palavrões, com um ritmo quase shakespeariano, num cenário de lama e sujeira. A série foi cancelada com a trama em aberto e só em 2019 ganhou um filme de fechamento."
+  "Deadwood, no território de Dakota, em 1876, é um acampamento de mineradores que existe fora da lei americana e cresce a cada semana, em terras que um tratado reservava aos sioux. O criador, David Milch, mistura figuras reais — o pistoleiro Wild Bill Hickok, Calamity Jane — com personagens inventados. O eixo da história é a relação entre o xerife Seth Bullock (Timothy Olyphant), que chegou para ganhar dinheiro e acabou virando homem da lei, e Al Swearengen (Ian McShane), dono do saloon The Gem, que quer manter o controle da cidade.",
+  "O que mais chama atenção é a linguagem: diálogos longos, floridos e carregados de palavrões, num ritmo quase shakespeariano, num cenário de lama e sujeira. É um faroeste sem mocinho: a cidade vai nascendo na marra, entre alianças e traições, e a série mostra como uma comunidade, um negócio e uma lei podem surgir do nada. Ian McShane, como Swearengen, é a atuação mais comentada. Os personagens secundários, como o rival Cy Tolliver, o médico Doc Cochran e a viúva Alma Garret, têm histórias tão boas quanto as dos protagonistas, e a cidade, com sua lama e seus cenários, é uma das mais marcantes da TV.",
+  "Foi cancelada pela HBO em 2006, com a trama em aberto, e só em 2019 ganhou um filme de fechamento. Serve a quem gosta de faroeste, de linguagem rica e de histórias sobre como as sociedades nascem. Não é para quem não aguenta palavrão em quantidade e violência crua. Comece pelo primeiro episódio e dê tempo para se acostumar com a fala: depois de dois ou três episódios, ela vira música."
  ])
 
 F[25] = dict(
@@ -314,7 +346,8 @@ F[25] = dict(
  episodio=None,
  texto=[
   "Num instante, duas em cada cem pessoas do planeta somem sem deixar rastro. Três anos depois, na pequena cidade de Mapleton, o chefe de polícia Kevin Garvey (Justin Theroux) tenta manter a ordem enquanto surgem seitas — uma delas, os “Remanescentes Culpados”, vestida de branco, silenciosa e decidida a não deixar ninguém esquecer a perda. A série foi criada por Damon Lindelof, de Lost, e Tom Perrotta, autor do romance que a inspirou.",
-  "Ao contrário de Lost, a série não se interessa por explicar o desaparecimento. Seu assunto é o luto: o que se faz com uma perda sem resposta, como as pessoas se apegam a rituais e crenças para suportar a dor. A primeira temporada é sombria; a segunda e a terceira mudam de cenário e de tom, ficam mais estranhas e mais comoventes, e costumam ser as favoritas dos fãs."
+  "Ao contrário de Lost, a série não se interessa por explicar o desaparecimento. O seu assunto é o luto: o que se faz com uma perda sem resposta, como as pessoas se agarram a rituais e crenças para suportar a dor. A primeira temporada é sombria; a segunda e a terceira mudam de cenário e de tom, ficam mais estranhas e mais comoventes, e costumam ser as favoritas dos fãs. Carrie Coon, como Nora, tem um dos papéis mais lembrados. A trilha de Max Richter, a abertura que muda a cada temporada e as atuações de Coon, Theroux, Christopher Eccleston e Ann Dowd ajudam a sustentar o tom. A série exige paciência, mas recompensa quem a acompanha até o fim.",
+  "Passou na HBO de 2014 a 2017 com audiência modesta, mas aparece em listas das melhores séries da década. Serve a quem gosta de dramas sobre perda e de mistério sem resolução. Não é para quem quer respostas: a série as nega de propósito. Comece pelo primeiro episódio; se a 1ª temporada parecer pesada, insista — a história muda de cara."
  ])
 
 F[10] = dict(
@@ -326,8 +359,10 @@ F[10] = dict(
  parecido="Louie, Barry, Insecure",
  episodio="“Teddy Perkins” (2ª temporada, ep. 6).",
  texto=[
-  "Earn (Donald Glover) largou a faculdade, vive de bicos e dorme ora na casa da ex, ora na da família. Quando seu primo Alfred, que rima sob o nome de Paper Boi (Brian Tyree Henry), começa a ficar conhecido na cidade, Earn se oferece como empresário. A premissa é simples, mas Glover — que criou, escreveu e estrelou a série, com direção de Hiro Murai em boa parte dos episódios — a usa como ponto de partida para falar de dinheiro, raça, fama e a vida de quem está perto do sucesso sem chegar nele.",
-  "O tom muda de um episódio para outro: há capítulos realistas, outros de humor absurdo, um quase de terror e um falso documentário sobre uma emissora que só existe naquele universo. A terceira temporada leva os personagens a uma turnê pela Europa, e a quarta volta a Atlanta. Em vez de uma trama linear, a série oferece um retrato atento de um lugar e de uma geração, com a ironia de quem vê o mundo de uma esquina e o desconforto de saber que as coisas não vão se resolver."
+  "Earn largou a faculdade, vive de bicos e dorme ora na casa da ex-namorada, ora na da família, em Atlanta, na Geórgia. Quando o primo Alfred, que rima como Paper Boi, começa a ficar conhecido na cidade, Earn se oferece para empresariá-lo e tenta se encaixar na cena do rap local. A premissa é simples, mas a série a usa como ponto de partida para falar de dinheiro, raça, fama e da vida de quem está perto do sucesso sem nunca chegar nele.",
+  "Donald Glover criou, escreveu e estrelou a série, e o que a torna única é a imprevisibilidade: cada episódio muda de estilo. Há capítulos realistas, outros de humor absurdo, um quase de terror (“Teddy Perkins”) e uma sátira de programa de TV de uma emissora inexistente. A direção de Hiro Murai, em boa parte dos episódios, deu à série um visual entre o realista e o onírico, e o elenco, com Brian Tyree Henry, Lakeith Stanfield e Zazie Beetz, é tão bom que cada personagem ganha episódios só seus.",
+  "Estreou em 2016 no FX e foi até 2022, em quatro temporadas; a terceira leva os personagens a uma turnê pela Europa, e a quarta volta a Atlanta. Glover, que também é músico sob o nome Childish Gambino, ganhou os Emmys de melhor ator e de direção de comédia em 2017. A série abriu espaço na TV americana para histórias negras contadas por quem as vive, sem se explicar para quem está de fora. A própria cidade de Atlanta é personagem: seus bairros, seu trânsito, seu jeito de conversar e a música que sai de cada carro.",
+  "Serve a quem gosta de comédias estranhas, de música e de séries que não se prendem a uma fórmula. Não é para quem quer trama linear ou piadas fáceis: muitos episódios deixam perguntas sem resposta de propósito, e a série é mais atmosfera do que enredo. Alguns episódios fogem do resto como se fossem outra série; isso é proposital. Comece pelo primeiro episódio e siga a ordem, que mostra bem o que vem depois."
  ])
 
 # ---- Lote 1 (posições 26–37): textos escritos do zero; fatos conferidos com conhecimento geral ----
@@ -568,5 +603,122 @@ F[77] = dict(
         "A série foi um sucesso imediato e ganhou muitos prêmios nos primeiros anos. Mostrou um casal gay como parte comum de uma família da TV aberta americana, algo ainda raro no início, e o elenco afiado fez várias cenas virarem clássicos. Nas últimas temporadas a fórmula cansou, e as melhores são as primeiras. É comédia leve, fácil de maratonar.",
     ])
 
-_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50, 52, 60, 61, 63, 70, 77}
+F[78] = dict(
+    tagline="Cinco amigos tocam um bar vazio na Filadélfia e escolhem sempre a pior ideia possível.",
+    genero="Comédia", pais="Estados Unidos", anos="2005–atual · mais de 15 temporadas",
+    elenco="Charlie Day, Glenn Howerton, Rob McElhenney, Kaitlin Olson, Danny DeVito",
+    emissora="FX (depois FXX)",
+    premios="Quase sem prêmios importantes, mas tornou-se a comédia de situação de ação ao vivo mais longeva dos Estados Unidos.",
+    parecido="Seinfeld, Curb Your Enthusiasm, Peep Show",
+    episodio="“The Nightman Cometh” (4ª temporada, ep. 13).",
+    texto=[
+        "Na Filadélfia, cinco amigos tocam o Paddy’s Pub, um bar sempre vazio: Dennis, Dee, Mac, Charlie e Frank, pai de dois deles, vivido por Danny DeVito. Eles se acham boas pessoas e passam os episódios armando esquemas ridículos, brigando e escolhendo o pior caminho, sem nunca aprender nada.",
+        "A graça está justamente em que ninguém ali é simpático: a série ri de egoísmo, vaidade e preconceito levando cada ideia ao extremo, com humor abertamente de mau gosto. Foi criada por Rob McElhenney, Glenn Howerton e Charlie Day, que também atuam, e virou um caso raro de longevidade na TV americana. Serve a quem gosta de humor ácido e não se choca fácil; quem prefere comédias calorosas deve passar longe.",
+    ])
+
+F[79] = dict(
+    tagline="Depois do escândalo que derruba o marido, uma advogada volta ao trabalho e descobre o próprio poder.",
+    genero="Drama jurídico e político", pais="Estados Unidos", anos="2009–2016 · 7 temporadas",
+    elenco="Julianna Margulies, Chris Noth, Christine Baranski, Josh Charles, Archie Panjabi, Alan Cumming",
+    emissora="CBS",
+    premios="Emmys de atuação para Julianna Margulies (2011) e Archie Panjabi (2010).",
+    parecido="The Good Fight, Damages, Suits",
+    episodio="O piloto.",
+    texto=[
+        "Depois de um escândalo político que derruba o marido, promotor de Chicago, Alicia Florrick (Julianna Margulies) precisa voltar a advogar, depois de anos longe da profissão. Entra num escritório como a novata de uma equipe de rivais, enquanto o casamento e a imagem pública dela viram assunto nacional.",
+        "Cada episódio traz um caso jurídico da semana, mas o que prende é a política, de tribunal e de eleição, e as relações de poder entre os personagens. O elenco de apoio, com Christine Baranski e Alan Cumming, é tão forte quanto a protagonista, e há uma reviravolta no meio da série que dividiu os fãs. Serve a quem gosta de drama adulto, diálogos inteligentes e tramas longas; não é para quem quer ação. As primeiras temporadas são as mais elogiadas.",
+    ])
+
+F[83] = dict(
+    tagline="Um delegado federal de chapéu de caubói volta para o Kentucky onde cresceu, e o passado o espera.",
+    genero="Policial (faroeste moderno)", pais="Estados Unidos", anos="2010–2015 · 6 temporadas",
+    elenco="Timothy Olyphant, Walton Goggins, Nick Searcy, Joelle Carter, Margo Martindale",
+    emissora="FX",
+    premios="Emmy de atriz coadjuvante para Margo Martindale (2011).",
+    parecido="Deadwood, Fargo, The Shield",
+    episodio="O piloto (“Fire in the Hole”).",
+    texto=[
+        "Raylan Givens (Timothy Olyphant) é um delegado federal de chapéu de caubói e pontaria rápida que, depois de um tiroteio, é mandado de volta à terra natal, o condado de Harlan, no Kentucky, uma região pobre de mineração. Lá reencontra velhos conhecidos, entre eles Boyd Crowder (Walton Goggins), amigo de juventude que agora está do outro lado da lei. A série parte de histórias de Elmore Leonard.",
+        "É um faroeste moderno, com diálogos cheios de sotaque e humor seco, em que a graça está nas conversas tanto quanto nos tiros. Os vilões de cada temporada são marcantes, e a dupla Raylan e Boyd é um dos melhores duelos da TV recente. Serve a quem gosta de policial com humor e de histórias de interior; menos a quem prefere tramas muito complicadas.",
+    ])
+
+F[84] = dict(
+    tagline="A natureza do planeta inteiro, filmada como nunca antes, com a voz de David Attenborough.",
+    genero="Documentário de natureza", pais="Reino Unido", anos="2006 · 11 episódios",
+    elenco="David Attenborough (narrador)",
+    emissora="BBC",
+    premios="Vários prêmios Emmy e BAFTA.",
+    parecido="Planet Earth II, Our Planet, Cosmos",
+    episodio="“From Pole to Pole” (1º episódio).",
+    texto=[
+        "Série documental da BBC, narrada por David Attenborough, que percorre o planeta em onze episódios, cada um dedicado a um tipo de ambiente: montanhas, desertos, selvas, cavernas, mares profundos, regiões polares. Levou cerca de cinco anos para ser filmada e foi uma das primeiras produções do gênero gravadas em alta definição.",
+        "O que a destaca é a imagem: câmeras estabilizadas em helicópteros, imagens em câmera lenta e acelerada mostram bichos e paisagens como a TV quase nunca tinha mostrado, e a narração calma de Attenborough dá sentido a tudo. É cinema de natureza, que também faz pensar no que está em risco. Serve a qualquer idade; só não é para quem espera enredo. Cada episódio funciona sozinho.",
+    ])
+
+F[88] = dict(
+    tagline="Um perito da polícia de Miami, simpático e discreto, esconde que é um assassino em série com código de conduta.",
+    genero="Drama policial", pais="Estados Unidos", anos="2006–2013 · 8 temporadas",
+    elenco="Michael C. Hall, Jennifer Carpenter, Julie Benz, David Zayas, Lauren Vélez, James Remar, John Lithgow",
+    emissora="Showtime",
+    premios="Globo de Ouro de melhor ator em série dramática para Michael C. Hall (2010).",
+    parecido="Hannibal, Mindhunter, Família Soprano",
+    episodio="O piloto.",
+    texto=[
+        "Dexter Morgan (Michael C. Hall) é um analista forense da polícia de Miami, simpático e discreto, que esconde um segredo: é um assassino em série. Treinado pelo pai adotivo, segue um código que o limita a matar só quem escapou da Justiça, e narra a própria vida em pensamentos, com um humor sombrio que dá o tom da série.",
+        "A graça está em torcer por um homem que não deveria merecer a torcida, e em ver o quanto de humanidade ele finge, ou descobre ter. Os melhores momentos vêm dos vilões de cada temporada, e a quarta, com John Lithgow, é a mais lembrada. As últimas temporadas caem de nível, e o final divide os fãs. Serve a quem gosta de suspense e humor negro; não a quem se incomoda com violência.",
+    ])
+
+F[95] = dict(
+    tagline="Um médico brilhante e insuportável resolve os casos que ninguém mais consegue diagnosticar.",
+    genero="Drama médico", pais="Estados Unidos", anos="2004–2012 · 8 temporadas",
+    elenco="Hugh Laurie, Lisa Edelstein, Robert Sean Leonard, Omar Epps, Jesse Spencer",
+    emissora="Fox",
+    premios="Dois Globos de Ouro de melhor ator em série dramática para Hugh Laurie (2006 e 2007).",
+    parecido="Grey’s Anatomy, ER, Sherlock",
+    episodio="“Three Stories” (1ª temporada, ep. 21).",
+    texto=[
+        "No hospital universitário de Princeton-Plainsboro, em Nova Jersey, o doutor Gregory House (Hugh Laurie) lidera uma equipe que só pega os casos que ninguém consegue resolver. É um diagnosticador brilhante, arrogante, viciado em analgésicos e de bengala, que evita pacientes e ignora regras. Cada episódio é um enigma médico, resolvido por tentativa e erro.",
+        "A série segue a lógica de um caso policial: sintomas viram pistas, e House é uma homenagem assumida a Sherlock Holmes, com o amigo Wilson no lugar de Watson. A graça está no jeito ácido de Laurie, que ganhou dois Globos de Ouro. Serve a quem gosta de dramas médicos e de personagens difíceis; menos a quem prefere um hospital mais caloroso. Quase todos os episódios funcionam sozinhos.",
+    ])
+
+F[97] = dict(
+    tagline="Um advogado de diploma falso cai numa faculdade comunitária e acaba formando uma família de esquisitos.",
+    genero="Comédia", pais="Estados Unidos", anos="2009–2015 · 6 temporadas",
+    elenco="Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Chevy Chase, Jim Rash",
+    emissora="NBC (a última temporada, no Yahoo Screen)",
+    premios="Poucos prêmios, mas virou uma das séries de culto mais queridas da TV americana.",
+    parecido="Parks and Recreation, Arrested Development, 30 Rock",
+    episodio="“Remedial Chaos Theory” (3ª temporada, ep. 3).",
+    texto=[
+        "Jeff Winger (Joel McHale), advogado de lábia afiada, perde a licença quando se descobre que seu diploma é falso e precisa começar de novo na faculdade comunitária de Greendale. Para tentar se dar bem com uma colega, inventa um grupo de estudos, que acaba reunindo gente de todo tipo: a ativista, o cineasta amador, a mãe de família, o ex-atleta, a nerd ansiosa e um senhor ranzinza. A série foi criada por Dan Harmon.",
+        "O que a destaca é a ousadia: episódios inteiros viram paródia de faroeste, filme de guerra, animação em massinha ou documentário, sem perder o carinho pelos personagens. Quem entende as referências a cinema e TV se diverte mais, mas dá para rir sem conhecê-las. Serve a quem gosta de humor rápido, metalinguístico e meio maluco; não a quem prefere comédia comportada. As três primeiras temporadas são as mais elogiadas.",
+    ])
+
+F[99] = dict(
+    tagline="Uma mãe e uma filha que se parecem mais com melhores amigas, numa cidadezinha onde todo mundo se mete na vida de todo mundo.",
+    genero="Comédia dramática", pais="Estados Unidos", anos="2000–2007 · 7 temporadas",
+    elenco="Lauren Graham, Alexis Bledel, Scott Patterson, Kelly Bishop, Edward Herrmann, Melissa McCarthy, Keiko Agena",
+    emissora="The WB (depois The CW)",
+    premios="Poucos prêmios importantes, mas virou série de culto e ganhou continuação na Netflix (2016).",
+    parecido="Friday Night Lights, Girls, Parks and Recreation",
+    episodio="O piloto.",
+    texto=[
+        "Lorelai (Lauren Graham) teve a filha Rory (Alexis Bledel) aos dezesseis anos e a criou sozinha, em Stars Hollow, uma cidadezinha de Connecticut cheia de gente excêntrica. As duas conversam como amigas, trocam referências e adoram café e cultura pop. Quando Rory entra num colégio exigente, Lorelai precisa pedir ajuda aos pais, de quem se afastou, e a família ganha um novo capítulo.",
+        "A marca da série é o diálogo: rápido, cheio de citações e piadas, como numa comédia clássica de Hollywood. O afeto entre mãe e filha, os vizinhos esquisitos e o outono eterno da cidade criaram um clima aconchegante que muita gente revê como conforto. Serve a quem gosta de histórias de família e de conversa inteligente; não a quem espera ritmo de ação. As primeiras temporadas são as melhores.",
+    ])
+
+F[100] = dict(
+    tagline="Uma especialista em resolver crises de gente poderosa descobre que a maior crise é a sua própria.",
+    genero="Drama político", pais="Estados Unidos", anos="2012–2018 · 7 temporadas",
+    elenco="Kerry Washington, Tony Goldwyn, Columbus Short, Jeff Perry, Bellamy Young, Joshua Malina, Scott Foley",
+    emissora="ABC",
+    premios="Kerry Washington foi indicada ao Emmy e ao Globo de Ouro de melhor atriz em série dramática.",
+    parecido="House of Cards, Grey’s Anatomy, The Good Wife",
+    episodio="O piloto.",
+    texto=[
+        "Em Washington, Olivia Pope (Kerry Washington) comanda uma firma discreta que resolve os escândalos de políticos, empresários e celebridades, com uma equipe de “gladiadores” leais. Ela já trabalhou na Casa Branca, e o passado sentimental com o presidente Fitzgerald Grant (Tony Goldwyn) sempre atrapalha o trabalho. A série foi criada por Shonda Rhimes, a mesma de Grey’s Anatomy, e se inspira, de longe, na história de uma consultora real.",
+        "O ritmo é de novela: diálogos em velocidade máxima, segredos, traições e reviravoltas em quase todo episódio, algumas muito exageradas. É diversão de maratona, melodrama assumido, e não um retrato realista de Washington. Serve a quem gosta de intriga, de personagens que mentem muito e de finais de episódio em suspense; menos a quem prefere política mais séria. As primeiras temporadas são as mais fortes.",
+    ])
+
+_NOVOS = {26, 27, 28, 31, 33, 37, 38, 41, 43, 45, 48, 50, 52, 60, 61, 63, 70, 77, 78, 79, 83, 84, 88, 95, 97, 99, 100}
 assert _NOVOS | set(range(1, 26)) == set(F), sorted(set(F) ^ (_NOVOS | set(range(1, 26))))
